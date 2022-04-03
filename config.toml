@@ -1,0 +1,65 @@
+baseURL = "https://lartdelachance.github.io/"
+title = "L'art de la chance"
+languageCode = "fr"
+theme = "hello-friend"
+paginate = 5
+
+
+[params]
+  # dir name of your blog content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  # "light" or "dark"
+  defaultTheme = "light"
+
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
+
+  # Show reading time in minutes for posts
+  showReadingTime = false
+
+  # Show table of contents at the top of your posts (defaults to false)
+  # Alternatively, add this param to post front matter for specific posts
+  # toc = true
+
+  # Show full page content in RSS feed items
+  #(default is Description or Summary metadata in the front matter)
+  # rssFullText = true
+
+[languages]
+  [languages.en]
+    title = "L'art de la chance"
+    subtitle = "Ou quand la vie te donne des 1 relance 1"
+    keywords = ""
+    copyright = ""
+    menuMore = "Voir plus"
+    writtenBy = "Ecrit par"
+    readMore = "Lire plus"
+    readOtherPosts = "Lire d'autres posts"
+    newerPosts = "Posts récent"
+    olderPosts = "Posts ancien"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+    # leave empty to disable, enter display text to enable
+    # lastModDisplay = ""
+
+    [languages.en.params.logo]
+    #  logoText = "L'art de la chance"
+    #  logoHomeLink = "/"
+    # or
+    #
+    path = "/img/logo1.png"
+    alt = "L'art de la chance"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "A propos"
+        url = "/about"
+    #  [[languages.en.menu.main]]
+    #    identifier = "showcase"
+    #    name = "Showcase"
+    #    url = "/showcase"
+  
