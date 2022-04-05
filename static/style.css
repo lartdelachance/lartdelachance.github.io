@@ -1,0 +1,12 @@
+a.logo img {
+    height: 100px;
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+
+.gallery_image {
+    width:auto;
+    max-width:none;
+    display:inline;
+    margin: 10px;
+}

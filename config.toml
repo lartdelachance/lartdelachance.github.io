@@ -50,7 +50,7 @@ paginate = 5
     #  logoHomeLink = "/"
     # or
     #
-    path = "/img/logo1.png"
+    path = "/img/logos/adc-1_logo-sans-bg-COLOR.png"
     alt = "L'art de la chance"
 
     [languages.en.menu]
@@ -58,8 +58,3 @@ paginate = 5
         identifier = "about"
         name = "A propos"
         url = "/about"
-    #  [[languages.en.menu.main]]
-    #    identifier = "showcase"
-    #    name = "Showcase"
-    #    url = "/showcase"
-  
