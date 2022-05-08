@@ -4,7 +4,21 @@ languageCode = "fr"
 theme = "hello-friend"
 paginate = 5
 
-
+[markup]
+  [markup.asciidocExt]
+    backend = 'html5'
+    extensions = ["asciidoctor-html5s", "asciidoctor-diagram"]
+    failureLevel = 'fatal'
+    noHeaderOrFooter = true
+    preserveTOC = false
+    safeMode = 'unsafe'
+    sectionNumbers = false
+    trace = true
+    verbose = true
+    workingFolderCurrent = false
+    [markup.asciidocExt.attributes]
+      icons = 'font'
+      
 [params]
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).

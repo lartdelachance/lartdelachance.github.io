@@ -1,0 +1,24 @@
+---
+title: "Partie du 04 Mai 2022"
+date: 2022-05-04T00:00:01
+description: 2 vs 2 à 1111pts chacun.
+tags: 
+    - "w40k"
+    - "Tau"
+    - "SMC"
+    - "DA"
+    - "DG"
+---
+
+Bonjour à tous,
+
+Première partie dans la salle.
+
+un 2 vs 2 : 
+
+* Tau + SMC
+* DA + DG
+
+Avec le "PACK DE MISSIONS: TEMPÊTE DE GUERRE"
+
+{{< gallery >}} 
