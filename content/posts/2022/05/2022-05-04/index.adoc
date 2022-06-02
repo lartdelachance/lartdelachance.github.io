@@ -1,5 +1,5 @@
 ---
-title: "Partie du 04 Mai 2022"
+title: "Partie du 04 mai 2022"
 date: 2022-05-04T00:00:01
 description: 2 vs 2 à 1111pts chacun.
 tags: 

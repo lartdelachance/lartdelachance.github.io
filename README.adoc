@@ -1,0 +1,9 @@
+= Site 
+
+== Commande 
+
+Pour créer une nouveau `post` :
+[source,bash]
+----
+$ hugo new --kind partie posts/2022/05/2022-05-20
+----

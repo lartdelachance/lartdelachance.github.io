@@ -1,0 +1,11 @@
+---
+title: "Partie du 25 mai 2022"
+date: 2022-05-25T00:04:48+02:00
+description: Découverte de Fantasy Brawl
+tags: 
+    - "Fantasy Brawl"
+---
+
+Ce soir c'est 2 parties de découverte de Fantasy Brawl
+
+{{< gallery >}} 

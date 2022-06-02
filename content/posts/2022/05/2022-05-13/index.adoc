@@ -1,5 +1,5 @@
 ---
-title: "Partie du 13 Mai 2022"
+title: "Partie du 13 mai 2022"
 date: 2022-05-13T00:00:01
 description: Craftworld vs Custodes vs DG
 tags: 

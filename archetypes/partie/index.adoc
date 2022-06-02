@@ -1,0 +1,13 @@
+---
+title: "Partie du {{ time.Format "2 Jan 2006" .Name }}"
+date: {{ .Date }}
+description: Insert description
+tags: 
+    - "w40k"
+---
+
+Bonjour à tous,
+
+Insert content ...
+
+{{< gallery >}} 

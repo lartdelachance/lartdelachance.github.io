@@ -1,5 +1,5 @@
 ---
-title: "Partie du 11 Mai 2022"
+title: "Partie du 11 mai 2022"
 date: 2022-05-11T00:00:01
 description: SMC vs DG
 tags: 

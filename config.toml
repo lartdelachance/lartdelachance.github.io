@@ -3,6 +3,7 @@ title = "L'art de la chance"
 languageCode = "fr"
 theme = "hello-friend"
 paginate = 5
+defaultContentLanguage = 'fr'
 
 [markup]
   [markup.asciidocExt]
@@ -42,7 +43,7 @@ paginate = 5
   # rssFullText = true
 
 [languages]
-  [languages.en]
+  [languages.fr]
     title = "L'art de la chance"
     subtitle = "Ou quand la vie te donne des 1 relance 1"
     keywords = ""
@@ -59,7 +60,7 @@ paginate = 5
     # leave empty to disable, enter display text to enable
     # lastModDisplay = ""
 
-    [languages.en.params.logo]
+    [languages.fr.params.logo]
     #  logoText = "L'art de la chance"
     #  logoHomeLink = "/"
     # or
@@ -67,8 +68,8 @@ paginate = 5
     path = "/img/logos/adc-1_logo-sans-bg-COLOR.png"
     alt = "L'art de la chance"
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
+    [languages.fr.menu]
+      [[languages.fr.menu.main]]
         identifier = "about"
         name = "A propos"
         url = "/about"

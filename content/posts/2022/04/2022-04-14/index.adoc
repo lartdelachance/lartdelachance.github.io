@@ -1,5 +1,5 @@
 ---
-title: "Parties du 14 Avril 2022"
+title: "Parties du 14 avril 2022"
 date: 2022-04-14T00:00:01
 description: Une grande table, 2 terrains, 2 ambiances
 tags: 
