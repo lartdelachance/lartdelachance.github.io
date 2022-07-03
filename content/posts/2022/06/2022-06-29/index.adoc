@@ -1,0 +1,15 @@
+---
+title: "Partie du 29 juin 2022"
+date: 2022-06-29T19:17:53+02:00
+description: La vitesse de la DA contre la lenteur de la DG
+tags: 
+    - "w40k"
+    - "DA"
+    - "DG"
+---
+
+Bonjour à tous,
+
+Lorsque les DA profitent de leurs déplacements et de leur puissance de tir sur de la DG plutôt immobile, la partie tourne court.
+
+{{< gallery >}} 

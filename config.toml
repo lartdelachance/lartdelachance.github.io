@@ -29,7 +29,7 @@ defaultContentLanguage = 'fr'
   defaultTheme = "light"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # Show reading time in minutes for posts
   showReadingTime = false
@@ -73,6 +73,12 @@ defaultContentLanguage = 'fr'
         identifier = "about"
         name = "A propos"
         url = "/about"
+
+      [[languages.fr.menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags"
+
 
 [security]
 enableInlineShortcodes = false

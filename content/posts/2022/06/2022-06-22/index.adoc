@@ -6,7 +6,7 @@ tags:
     - "w40k"
     - "SMC"
     - "DA"
-    - "Eldar"
+    - "Craftworld"
     - "DG"
 ---
 
@@ -17,7 +17,7 @@ Est ce que les "mauvais" résultats ressenti du joueur DA viennent des dés ... 
 
 La conclusion : le joueur DA va peut être s'acheter de nouveaux dés ... 
 
-De l'autre coté, les câlins de la DG n'ont pas été apprécié par les Eldars qui ont nettoyer par le vide la contagion de Nurgle.
+De l'autre coté, les câlins de la DG n'ont pas été apprécié par les Craftworlds qui ont nettoyer par le vide la contagion de Nurgle.
 
 
 {{< gallery >}} 

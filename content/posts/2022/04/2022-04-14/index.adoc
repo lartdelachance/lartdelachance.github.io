@@ -5,7 +5,7 @@ description: Une grande table, 2 terrains, 2 ambiances
 tags: 
     - "w40k"
     - "Craftworld"
-    - "Custodes"
+    - "Custo"
     - "SMC"
 ---
 

@@ -1,0 +1,15 @@
+---
+title: "Partie du 1 juil. 2022"
+date: 2022-07-01T19:17:16+02:00
+description: Retour des Tyranides
+tags: 
+    - "w40k"
+    - "Craftworld"
+    - "Tyranide"
+---
+
+Bonjour à tous,
+
+Ce soir, une infestation de Tyranides a été stoppée par des Craftworlds.
+
+{{< gallery >}} 
