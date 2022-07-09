@@ -9,17 +9,37 @@
     <description>Recent content in Tags on L&#39;art de la chance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 01 Jul 2022 19:17:16 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jul 2022 14:19:52 +0200</lastBuildDate>
     
 	<atom:link href="https://lartdelachance.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Craftworld</title>
-      <link>https://lartdelachance.github.io/tags/craftworld/</link>
-      <pubDate>Fri, 01 Jul 2022 19:17:16 +0200</pubDate>
+      <title>Custo</title>
+      <link>https://lartdelachance.github.io/tags/custo/</link>
+      <pubDate>Fri, 08 Jul 2022 14:19:52 +0200</pubDate>
       
-      <guid>https://lartdelachance.github.io/tags/craftworld/</guid>
+      <guid>https://lartdelachance.github.io/tags/custo/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Orks</title>
+      <link>https://lartdelachance.github.io/tags/orks/</link>
+      <pubDate>Fri, 08 Jul 2022 14:19:52 +0200</pubDate>
+      
+      <guid>https://lartdelachance.github.io/tags/orks/</guid>
       <description>
         
           
@@ -37,7 +57,7 @@
     <item>
       <title>Tyranide</title>
       <link>https://lartdelachance.github.io/tags/tyranide/</link>
-      <pubDate>Fri, 01 Jul 2022 19:17:16 +0200</pubDate>
+      <pubDate>Fri, 08 Jul 2022 14:19:52 +0200</pubDate>
       
       <guid>https://lartdelachance.github.io/tags/tyranide/</guid>
       <description>
@@ -55,9 +75,29 @@
     </item>
     
     <item>
+      <title>UM</title>
+      <link>https://lartdelachance.github.io/tags/um/</link>
+      <pubDate>Fri, 08 Jul 2022 14:19:52 +0200</pubDate>
+      
+      <guid>https://lartdelachance.github.io/tags/um/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
       <title>w40k</title>
       <link>https://lartdelachance.github.io/tags/w40k/</link>
-      <pubDate>Fri, 01 Jul 2022 19:17:16 +0200</pubDate>
+      <pubDate>Fri, 08 Jul 2022 14:19:52 +0200</pubDate>
       
       <guid>https://lartdelachance.github.io/tags/w40k/</guid>
       <description>
@@ -75,11 +115,71 @@
     </item>
     
     <item>
+      <title>CK</title>
+      <link>https://lartdelachance.github.io/tags/ck/</link>
+      <pubDate>Wed, 06 Jul 2022 14:19:48 +0200</pubDate>
+      
+      <guid>https://lartdelachance.github.io/tags/ck/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
       <title>DA</title>
       <link>https://lartdelachance.github.io/tags/da/</link>
-      <pubDate>Wed, 29 Jun 2022 19:17:53 +0200</pubDate>
+      <pubDate>Wed, 06 Jul 2022 14:19:48 +0200</pubDate>
       
       <guid>https://lartdelachance.github.io/tags/da/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>IF</title>
+      <link>https://lartdelachance.github.io/tags/if/</link>
+      <pubDate>Wed, 06 Jul 2022 14:19:48 +0200</pubDate>
+      
+      <guid>https://lartdelachance.github.io/tags/if/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Craftworld</title>
+      <link>https://lartdelachance.github.io/tags/craftworld/</link>
+      <pubDate>Fri, 01 Jul 2022 19:17:16 +0200</pubDate>
+      
+      <guid>https://lartdelachance.github.io/tags/craftworld/</guid>
       <description>
         
           
@@ -155,51 +255,11 @@
     </item>
     
     <item>
-      <title>Custo</title>
-      <link>https://lartdelachance.github.io/tags/custo/</link>
-      <pubDate>Wed, 15 Jun 2022 00:01:08 +0200</pubDate>
-      
-      <guid>https://lartdelachance.github.io/tags/custo/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
       <title>Asso</title>
       <link>https://lartdelachance.github.io/tags/asso/</link>
       <pubDate>Wed, 08 Jun 2022 23:53:19 +0200</pubDate>
       
       <guid>https://lartdelachance.github.io/tags/asso/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>CK</title>
-      <link>https://lartdelachance.github.io/tags/ck/</link>
-      <pubDate>Wed, 01 Jun 2022 00:08:54 +0200</pubDate>
-      
-      <guid>https://lartdelachance.github.io/tags/ck/</guid>
       <description>
         
           
