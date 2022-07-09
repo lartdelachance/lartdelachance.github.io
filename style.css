@@ -10,3 +10,16 @@ a.logo img {
     display:inline;
     margin: 10px;
 }
+
+.les_codex p {
+    margin-block-start: 0 !important;
+    margin-block-end: 0 !important;
+}
+
+.les_codex tr {
+    border-bottom: 1px solid #ddd;
+  }
+  
+.les_codex tr.header, .les_codex tr:hover {
+    background-color: #f1f1f1;
+  }
