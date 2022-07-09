@@ -12,4 +12,15 @@ L’association vise également la promotion des jeux de figurine auprès du pub
 
 Nous jouons plutôt à Warhammer 40k, un peu KillTeam, mais nous sommes ouvert pour découvrir autre chose.
 
+Liste des codex joué à l'association : link:../w40k/codex[Les codex et nos joueurs]
+
 Pour nous contacter, merci d'envoyer un email à : lartdelachance@gmail.com
+
+
+[.copyright]
+____
+Ce site est réalisé avec :
+
+* ©2022 Powered by https://gohugo.io[Hugo] 
+* Theme created by https://twitter.com/panr[panr] and adapted for this site
+____

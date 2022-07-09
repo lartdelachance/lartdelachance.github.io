@@ -1,0 +1,60 @@
+---
+title: "Les codex et nos joueurs"
+date: 2022-07-09T00:00:01
+---
+
+Les codex représentés à l'association :
+
+* xref:#_imperium_v9[]
+* xref:#_imperium_v8[]
+* xref:#_chaos_v9[]
+* xref:#_chaos_v8[]
+* xref:#_xenos_v9[]
+
+== Imperium V9 
+
+[.les_codex]
+[%header,format=csv,separator=";",cols="3,5,1"]
+|====
+Codex ;Version ;Dispo à l'asso
+include::content/w40k/resources/imperium-v9.csv[]
+|====
+
+== Imperium V8
+
+[.les_codex]
+[%header,format=csv,separator=";",cols="3,5,1"]
+|====
+Codex ;Version ;Dispo à l'asso
+include::content/w40k/resources/imperium-v8.csv[]
+|====
+
+== Chaos V9
+
+[.les_codex]
+[%header,format=csv,separator=";",cols="3,5,1"]
+|====
+Codex ;Version ;Dispo à l'asso
+include::content/w40k/resources/chaos-v9.csv[]
+|====
+
+== Chaos V8
+
+[.les_codex]
+[%header,format=csv,separator=";",cols="3,5,1"]
+|====
+Codex ;Version ;Dispo à l'asso
+include::content/w40k/resources/chaos-v8.csv[]
+|====
+
+== Xenos v9
+
+[.les_codex]
+[%header,format=csv,separator=";",cols="3,5,1"]
+|====
+Codex ;Version ;Dispo à l'asso
+include::content/w40k/resources/xenos-v9.csv[]
+|====
+
+
+Liste des codex/index issue de https://lacie.forumactif.com/t3751-warhammer-40k-v9-editions-mises-a-jour-et-faq[]
