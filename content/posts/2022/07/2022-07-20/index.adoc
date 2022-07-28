@@ -4,11 +4,11 @@ date: 2022-07-20T08:10:55+02:00
 description: Les xénos domineront la galaxie
 tags: 
     - "w40k"
-    - "Tyranid"
+    - "Tyranide"
     - "SMC"
     - "DA"
     - "Ork"
-    - "SM"
+    - "UM"
 ---
 
 Bonjour à tous,
@@ -17,7 +17,7 @@ Grosse soirée de batailles, 3 tables !!!
 
 Les motos Dark-Angels ont découvert ce qu'était une infestation Tyranides ... Si vous cherchez des pièces détachées pour votre véhicule, vous pourriez trouver votre bonheur par là-bas.
 
-C'est au son de la "WWWhhhaaaaagggg" que les Orks ont rapidement contraint les SpaceMarines à ne pas sortir de leur zone de déploiement.
+C'est au son de la "WWWhhhaaaaagggg" que les Orks ont rapidement contraint les UltraMarines à ne pas sortir de leur zone de déploiement.
 
 D'autres Tyranides ont grignoter du SMC qui n'ont pas su trouver de second souffle pour revenir dans la bataille.
 

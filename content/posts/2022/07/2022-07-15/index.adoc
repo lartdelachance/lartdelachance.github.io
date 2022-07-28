@@ -5,11 +5,11 @@ description: Mort au faux empereur
 tags: 
     - "w40k"
     - "SMC"
-    - "SM"
+    - "UM"
 ---
 
 Bonjour à tous,
 
-La puissance du nouveau codex SMC face à des SpaceMarines motivé mais faible ne fera pas gagner l'humanité.
+La puissance du nouveau codex SMC face à des UltraMarines motivé mais faible ne fera pas gagner l'humanité.
 
 {{< gallery >}} 

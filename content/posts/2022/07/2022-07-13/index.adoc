@@ -7,13 +7,13 @@ tags:
     - "SMC"
     - "Nécron"
     - "Ork"
-    - "SM"
+    - "UM"
 ---
 
 Bonjour à tous,
 
 Ce soir, en apprentissage du nouveau codex, les SMC n'ont pas gagné la partie, mais ont quand même réussi a tuer Ghazghkull Thraka.
 
-De l'autre coté, les Nécrons ont expliqué aux SpaceMarines que l'avenir n'était peut être pas dans la chaire. 
+De l'autre coté, les Nécrons ont expliqué aux UltraMarines que l'avenir n'était peut être pas dans la chaire. 
 
 {{< gallery >}} 

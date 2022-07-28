@@ -4,7 +4,7 @@ date: 2022-07-08T14:19:52+02:00
 description: Un nouveau joueur avec des Orks
 tags: 
     - "w40k"
-    - "Orks"
+    - "Ork"
     - "Tyranide"
     - "Custo"
     - "UM"
