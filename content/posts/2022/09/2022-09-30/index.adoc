@@ -1,0 +1,21 @@
+---
+title: "Partie du 30 sept. 2022"
+date: 2022-10-01T10:22:28+02:00
+description: Essaie Equilibrage
+tags: 
+    - "w40k"
+    - "Tyranide"
+    - "DG"
+---
+
+Bonjour à tous,
+
+Des statistiques de nos parties précédente, il apparaît que notre joueur DG perd tres souvent et le joueur Tyranide beaucoup moins.
+Ce constat fait ... on cherche une solution pour que tout le monde puisse jouer avec plaisir, d'un coté ne pas venir perdre systématiquement et de l'autre avoir un challenge.
+
+Ce soir nous avons essayé d'équilibrer la partie en ayant d'un coté des Tyranides à 1500pts, contre 1750pts de DeathGuard.
+
+Les Xénos ont quand même gagné, mais la DeathGuard a pu batailler jusqu’au bout et c'est des jets de charges/sauvegardes qui ont fait la différence.
+
+
+{{< gallery >}} 
