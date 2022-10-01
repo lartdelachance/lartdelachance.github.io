@@ -4,6 +4,15 @@ a.logo img {
     margin-bottom: -10px;
 }
 
+.logo-tho {
+    display: inline-flex;
+    justify-content: flex-end;
+}
+
+.logo-tho img {
+    max-width: 40%;
+}
+
 .gallery_image {
     width:auto;
     max-width:none;
