@@ -2,7 +2,7 @@
 title: "Parties du 14 avril 2022"
 date: 2022-04-14T00:00:01
 description: Une grande table, 2 terrains, 2 ambiances
-tags: 
+tags:
     - "w40k"
     - "Craftworld"
     - "Custo"
@@ -18,4 +18,4 @@ En attendant d'avoir une salle (ça va arriver) un membre (merci à lui) a propo
 * Craftworld vs Custodes (victoire Craftworld)
 * Craftworld vs Spaces Marines du Chaos (victoire SMC)
 
-{{< gallery >}} 
+{{< gallery >}}

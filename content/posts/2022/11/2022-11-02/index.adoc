@@ -2,7 +2,7 @@
 title: "Partie du 2 nov. 2022"
 date: 2022-11-02T08:45:20+01:00
 description:  Sites Énergétiques
-tags: 
+tags:
     - "w40k"
     - "Tyranid"
     - "Tau"
@@ -25,4 +25,4 @@ Apres avoir tout éradiqué, tous les générateur étaient activés, et la bali
 Les Tyranides restent dans l'ignorance de ce que permet de faire cette balise, mais les Tau et les Ultra Marines qui voulaient l'activer ont prit conscience de l'importance de ce site énergétique.
 
 
-{{< gallery >}} 
+{{< gallery >}}

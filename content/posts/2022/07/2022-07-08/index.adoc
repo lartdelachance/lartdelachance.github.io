@@ -2,7 +2,7 @@
 title: "Partie du 8 juil. 2022"
 date: 2022-07-08T14:19:52+02:00
 description: Un nouveau joueur avec des Orks
-tags: 
+tags:
     - "w40k"
     - "Ork"
     - "Tyranide"
@@ -19,4 +19,4 @@ Les custodes venus se réconforter dans l'apprentissage de la V9, ont encore mon
 Ils ne sont pas la garde de l'empereur pour rien.
 
 
-{{< gallery >}} 
+{{< gallery >}}

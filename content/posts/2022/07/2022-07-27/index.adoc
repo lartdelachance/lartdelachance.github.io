@@ -2,7 +2,7 @@
 title: "Partie du 27 juil. 2022"
 date: 2022-07-27T15:14:12+02:00
 description: Les SM contre le reste du monde
-tags: 
+tags:
     - "w40k"
     - "Tyranide"
     - "IF"
@@ -31,4 +31,4 @@ Encore un fois, les Orks sont allés tout droit.. Les Salamanders ont sous-estim
 La mission de "Pillage" commencée par les SMC a été une réussite, les UltraMarines n'ont pas pu les empêcher de prendre le terrain.
 
 
-{{< gallery >}} 
+{{< gallery >}}

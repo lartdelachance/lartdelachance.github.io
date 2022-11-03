@@ -2,7 +2,7 @@
 title: "Partie du 7 oct. 2022"
 date: 2022-10-07T08:48:53+02:00
 description: Petit format
-tags: 
+tags:
     - "w40k"
     - "SMC"
     - "Ork"
@@ -10,7 +10,7 @@ tags:
 
 Bonjour à tous,
 
-La marée verte a encore submergée le Chaos ... 
+La marée verte a encore submergée le Chaos ...
 la prochaine fois, il faudra plus de puissance des Dieux sombre.
 
-{{< gallery >}} 
+{{< gallery >}}

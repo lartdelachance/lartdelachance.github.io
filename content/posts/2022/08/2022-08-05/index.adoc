@@ -1,8 +1,8 @@
 ---
 title: "Partie du 5 août 2022"
 date: 2022-08-05T11:55:39+02:00
-description: Seconde partie à l'asso 
-tags: 
+description: Seconde partie à l'asso
+tags:
     - "w40k"
     - "SMC"
     - "Craftworld"
@@ -17,4 +17,4 @@ Ils ont apprit de leur défaite d'hier pour gagner aujourd’hui.
 
 
 
-{{< gallery >}} 
+{{< gallery >}}

@@ -2,7 +2,7 @@
 title: "Partie du 11 mai 2022"
 date: 2022-05-11T00:00:01
 description: SMC vs DG
-tags: 
+tags:
     - "w40k"
     - "SMC"
     - "DG"
@@ -10,7 +10,7 @@ tags:
 
 Bonjour à tous,
 
-Chaos contre Chaos, TZEENTCH contre NURGLE 
+Chaos contre Chaos, TZEENTCH contre NURGLE
 
 
-{{< gallery >}} 
+{{< gallery >}}

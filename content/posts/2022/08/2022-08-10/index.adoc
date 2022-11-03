@@ -2,7 +2,7 @@
 title: "Partie du 10 août 2022"
 date: 2022-08-10T12:41:37+02:00
 description: L'or c'est plus fort que les gemmes
-tags: 
+tags:
     - "w40k"
     - "Craftworld"
     - "Custo"
@@ -14,4 +14,4 @@ Combat au sommet entre des CraftWorld et des Custodes.
 Mais l'empereur protège !
 
 
-{{< gallery >}} 
+{{< gallery >}}

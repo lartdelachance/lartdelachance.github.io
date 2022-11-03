@@ -2,7 +2,7 @@
 title: "Partie du 28 sept. 2022"
 date: 2022-09-28T10:29:45+02:00
 description: Atelier peinture
-tags: 
+tags:
     - "w40k"
 ---
 
@@ -12,4 +12,4 @@ Ce soir pas de jeu, mais du partage de techniques de peintures.
 
 C'était la première fois ... pour la prochaine fois, il faudra peut être prévoir un éclairage plus adapté ?
 
-{{< gallery >}} 
+{{< gallery >}}

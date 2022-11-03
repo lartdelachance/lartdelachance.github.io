@@ -19,7 +19,7 @@ defaultContentLanguage = 'fr'
     workingFolderCurrent = false
     [markup.asciidocExt.attributes]
       icons = 'font'
-      
+
 [params]
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).

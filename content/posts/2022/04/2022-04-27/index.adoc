@@ -3,7 +3,7 @@ title: "Nous avons une salle"
 date: 2022-04-27T00:00:01
 description: Merci à la mairie!
 
-tags: 
+tags:
     - "Asso"
 ---
 
@@ -14,6 +14,6 @@ Et nous avons fait une demande pour l'année prochaine.
 
 Nous allons pouvoir nous y retrouver les Mercredi soir et Vendredi soir à partir de 19h30
 
-Merci à la mairie 
+Merci à la mairie
 
-{{< gallery >}} 
+{{< gallery >}}

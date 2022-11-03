@@ -2,7 +2,7 @@
 title: "Partie du 31 août 2022"
 date: 2022-08-31T09:24:05+02:00
 description: Début de la saison 2022-2023
-tags: 
+tags:
     - "w40k"
     - "Tyranide"
     - "DA"
@@ -13,9 +13,9 @@ tags:
 Début de la saison 2022-2023.
 
 Malgré les dégâts qu'ils ont réussi à faire, les Nécrons n'ont pas réussi a vaincre les Orks.
-Peut-on stopper la marée verte ? 
+Peut-on stopper la marée verte ?
 
 Sur l'autre champs de bataille, les DarkAngels ont été digérés par des Tyranides trop fort pour l'Impérium.
 
 
-{{< gallery >}} 
+{{< gallery >}}

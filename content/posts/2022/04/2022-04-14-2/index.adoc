@@ -2,7 +2,7 @@
 title: "Anecdote - 1"
 date: 2022-04-14T00:00:02
 description: Quand t'as pas de chance ...
-tags: 
+tags:
     - "w40k"
     - "Craftworld"
     - "Anecdote"
@@ -13,14 +13,14 @@ Lors de la partie du 14 Avril 2022, le Maulerfiend détruit le Wave Serpent qui 
 
 Il explose, mais sans faire beaucoup de BM aux unites proches.
 
-L'unité débarque dans les 3" du Wave Serpent. 
+L'unité débarque dans les 3" du Wave Serpent.
 Puis sont lancé 11 dés pour savoir qui survis à ce débarquement => 6 morts
 
 Fin du tour, arrive la phase de Moral ... Le test est raté => 1 mort de plus ... plus que 4 figurines debout
 
-Mais c'est sans compter sur les tests d'attrition =>  4 morts 
+Mais c'est sans compter sur les tests d'attrition =>  4 morts
 
 Wipe de l'unité, gros rire, bon souvenir :)
 
 
-{{< gallery >}} 
+{{< gallery >}}

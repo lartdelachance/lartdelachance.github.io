@@ -2,7 +2,7 @@
 title: "Partie du 20 mai 2022"
 date: 2022-05-20T23:30:35+02:00
 description: Qui apporte la vérité ?
-tags: 
+tags:
     - "w40k"
     - "Custo"
     - "SMC"
@@ -10,4 +10,4 @@ tags:
 
 Toujours du 1111pts
 
-{{< gallery >}} 
+{{< gallery >}}

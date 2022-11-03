@@ -2,7 +2,7 @@
 title: "Partie du 9 sept. 2022"
 date: 2022-09-09T10:58:28+02:00
 description: Qui prendra la tour au centre ?
-tags: 
+tags:
     - "w40k"
     - "Ork"
     - "SMC"
@@ -13,4 +13,4 @@ Bonjour à tous,
 Ce soir des Spaces Marines du Chaos ont croisés la route d'Orks.
 Beaucoup de mort dans les 2 camps, mais les peaux verte ont réussi a mieux sécuriser la zone.
 
-{{< gallery >}} 
+{{< gallery >}}

@@ -2,7 +2,7 @@
 title: "Partie du 6 juil. 2022"
 date: 2022-07-06T14:19:48+02:00
 description: Un nouveau joueur avec des Imperial Fist
-tags: 
+tags:
     - "w40k"
     - "CK"
     - "DA"
@@ -16,4 +16,4 @@ Ce soir sur un des deux front, des Imperial Fist ont montré leur supériorité 
 
 Sur l'autre front, des Chaos Knight ont exterminer les motos DA.
 
-{{< gallery >}} 
+{{< gallery >}}

@@ -2,7 +2,7 @@
 title: "Partie du 15 juil. 2022"
 date: 2022-07-15T08:10:55+02:00
 description: Mort au faux empereur
-tags: 
+tags:
     - "w40k"
     - "SMC"
     - "UM"
@@ -12,4 +12,4 @@ Bonjour à tous,
 
 La puissance du nouveau codex SMC face à des UltraMarines motivé mais faible ne fera pas gagner l'humanité.
 
-{{< gallery >}} 
+{{< gallery >}}

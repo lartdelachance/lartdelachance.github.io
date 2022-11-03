@@ -2,7 +2,7 @@
 title: "Partie du 21 sept. 2022"
 date: 2022-09-21T08:14:22+02:00
 description: Nouveaux tapis
-tags: 
+tags:
     - "w40k"
     - "Ork"
     - "SMC"
@@ -21,4 +21,4 @@ D'autres Orks on vu passer des véhicules DarkAngels, ils ont crié "Waaaaag" et
 D'autres SpacesMarines du Chaos ont expliqué à la DeathGuard qui était le vrai dieu du Chaos.
 
 
-{{< gallery >}} 
+{{< gallery >}}

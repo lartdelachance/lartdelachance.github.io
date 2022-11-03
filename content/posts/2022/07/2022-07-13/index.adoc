@@ -2,7 +2,7 @@
 title: "Partie du 13 juil. 2022"
 date: 2022-07-13T08:10:55+02:00
 description: Test nouveau codex SMC et Dataslate Necron
-tags: 
+tags:
     - "w40k"
     - "SMC"
     - "Nécron"
@@ -14,6 +14,6 @@ Bonjour à tous,
 
 Ce soir, en apprentissage du nouveau codex, les SMC n'ont pas gagné la partie, mais ont quand même réussi a tuer Ghazghkull Thraka.
 
-De l'autre coté, les Nécrons ont expliqué aux UltraMarines que l'avenir n'était peut être pas dans la chaire. 
+De l'autre coté, les Nécrons ont expliqué aux UltraMarines que l'avenir n'était peut être pas dans la chaire.
 
-{{< gallery >}} 
+{{< gallery >}}

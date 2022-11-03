@@ -2,7 +2,7 @@
 title: "Partie du 13 mai 2022"
 date: 2022-05-13T00:00:01
 description: Craftworld vs Custodes vs DG
-tags: 
+tags:
     - "w40k"
     - "Craftworld"
     - "Custo"
@@ -20,4 +20,4 @@ Mortarion face au Custodes ... l’Empereur protège
 La puissance Craftworld a dominer le terrain
 
 
-{{< gallery >}} 
+{{< gallery >}}

@@ -2,7 +2,7 @@
 title: "Partie du 1 juin 2022"
 date: 2022-06-01T00:08:54+02:00
 description: 5 Chaos Knights pour 1111pts
-tags: 
+tags:
     - "w40k"
     - "DG"
     - "DA"
@@ -14,4 +14,4 @@ Des SMC ont repoussé des Chaos Knights.
 
 Pendant que des Dark Angels nettoyaient l'infestation de la DeathGuard.
 
-{{< gallery >}} 
+{{< gallery >}}

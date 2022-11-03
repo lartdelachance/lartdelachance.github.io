@@ -11,7 +11,7 @@ Les codex représentés à l'association :
 * xref:#_chaos_v8[]
 * xref:#_xenos_v9[]
 
-== Imperium V9 
+== Imperium V9
 
 [.les_codex]
 [%header,format=csv,separator=";",cols="3,5,1"]

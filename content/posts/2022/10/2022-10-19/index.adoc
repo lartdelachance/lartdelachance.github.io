@@ -2,7 +2,7 @@
 title: "Partie du 19 oct. 2022"
 date: 2022-10-19T08:35:37+02:00
 description: Duel Hérétique ?
-tags: 
+tags:
     - "w40k"
     - "DA"
     - "DG"
@@ -13,4 +13,4 @@ Bonjour à tous,
 Ce soir, la vitesse de la RavenWing n'a rien pu faire contre la lenteur de la DeathGuard.
 
 
-{{< gallery >}} 
+{{< gallery >}}

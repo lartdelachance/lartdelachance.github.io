@@ -2,7 +2,7 @@
 title: "Partie du 30 sept. 2022"
 date: 2022-10-01T10:22:28+02:00
 description: Essaie Equilibrage
-tags: 
+tags:
     - "w40k"
     - "Tyranide"
     - "DG"
@@ -18,4 +18,4 @@ Ce soir nous avons essayé d'équilibrer la partie en ayant d'un coté des Tyran
 Les Xénos ont quand même gagné, mais la DeathGuard a pu batailler jusqu’au bout et c'est des jets de charges/sauvegardes qui ont fait la différence.
 
 
-{{< gallery >}} 
+{{< gallery >}}
