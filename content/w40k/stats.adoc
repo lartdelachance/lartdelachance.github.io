@@ -1,0 +1,10 @@
+---
+title: "Les statistiques des duels"
+
+---
+
+Ici sont reporté les résultats les plus à jours de nos duels:
+
+++++
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIYhAE3kgn3vYb72RPt83h6eLrgJMS8XDj69THEBWIJil0pQaDF_bThM-jaUbomlOPTlvfj-BLmJDs/pubhtml#" width="900px" height="600px"></iframe>
+++++

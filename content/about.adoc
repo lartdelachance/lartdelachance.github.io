@@ -14,6 +14,8 @@ Nous jouons plutôt à Warhammer 40k, un peu KillTeam, mais nous sommes ouvert p
 
 Liste des codex joué à l'association : link:../w40k/codex[Les codex et nos joueurs]
 
+Statistiques des parties jouée : link:../w40k/stats[Les Duels]
+
 Pour nous contacter, merci d'envoyer un email à : lartdelachance@gmail.com
 
 
