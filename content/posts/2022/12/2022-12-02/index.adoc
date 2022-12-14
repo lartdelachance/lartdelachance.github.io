@@ -1,0 +1,13 @@
+---
+title: "Partie du 2 déc. 2022"
+date: 2022-12-02T14:00:24+01:00
+description: Empire vs Résistance
+tags:
+    - "Star Wars Legion"
+---
+
+Bonjour à tous,
+
+Nouvelle partie découverte de Star Wars Legion.
+
+{{< gallery >}}

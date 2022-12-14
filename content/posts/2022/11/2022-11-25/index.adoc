@@ -1,0 +1,20 @@
+---
+title: "Partie du 25 nov. 2022"
+date: 2022-11-25T13:57:48+01:00
+description: Qui contrôlera la pyramide ?
+tags:
+    - "w40k"
+    - "SMC"
+    - "Tyranid"
+---
+
+Bonjour à tous,
+
+Une sonde envoyée par les SMC a détecté de l'énergie Warp autour d'une splendide pyramide, un détachement a été envoyé pour enquêter.
+En arrivant sur la planète, ils n'ont rencontré ni résistance, ni meme de forme de vie.
+
+C'est en s'approchant de cette pyramide, et en apercevant les tyranides qu'ils sont compris que c'était un piège.
+
+La biomasse a bien été digérée.
+
+{{< gallery >}}

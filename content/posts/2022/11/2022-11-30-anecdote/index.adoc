@@ -1,0 +1,23 @@
+---
+title: "Anecdote - 2"
+date: 2022-11-30T13:55:53+01:00
+description: Premier pouvoir psy
+tags:
+    - "w40k"
+    - "DA"
+    - "PasDeChance"
+---
+
+Bonjour à tous,
+
+Ce soir, pour la première fois en V9, le joueur Dark Angel test un Archiviste.
+
+Première phase Psy de son premier tour de jeu ...
+
+2 chances sur 36 de faire un péril du Warp ...
+
+1 chance sur 36, qu'en plus il rate ....
+
+1 CP plus tard ... il est passé ...
+
+{{< gallery >}}
