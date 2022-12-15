@@ -1,0 +1,15 @@
+---
+title: "Partie du 14 déc. 2022"
+date: 2022-12-14T08:11:37+01:00
+description: Listes modifiées, mais résultat identique
+tags:
+    - "w40k"
+    - "SdB"
+    - "UM"
+---
+
+Bonjour à tous,
+
+Les Sœur de Bataille ont une nouvelle fois montrée qui l'Empereur préférait.
+
+{{< gallery >}}
