@@ -1,0 +1,15 @@
+---
+title: "Partie du 28 déc. 2022"
+date: 2022-12-28T11:57:02+01:00
+description: Petit format 1000pts
+tags:
+    - "w40k"
+    - "Craftworld"
+    - "SMC"
+---
+
+Bonjour à tous,
+
+Les Spaces Marines du Chaos on su prendre le dessus sur le détachement Craftworld présent.
+
+{{< gallery >}}

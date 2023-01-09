@@ -1,0 +1,15 @@
+---
+title: "Partie du 4 janv. 2023"
+date: 2023-01-09T11:24:15+01:00
+description: Première partie de 2023
+tags:
+    - "w40k"
+    - "SMC"
+    - "UM"
+---
+
+Bonjour à tous,
+
+Les UltraMarines ont une fois de plus échoué a repousser les Spaces Marines du Chaos.
+
+{{< gallery >}}

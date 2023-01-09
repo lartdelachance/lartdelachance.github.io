@@ -5,5 +5,5 @@
 Pour créer une nouveau `post` :
 [source,bash]
 ----
-hugo new --kind partie posts/2022/12/2022-12-
+hugo new --kind partie posts/2023/01/2023-01-
 ----
