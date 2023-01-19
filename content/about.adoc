@@ -10,13 +10,14 @@ Nous sommes heureux de vous présenter notre association "L'art de la chance" à
 Cette association a pour objet de mettre en relation des joueurs de jeux de plateau avec figurines (aussi appelés « figurinistes », « pousseurs de figs », etc.) pour organiser des parties de jeu.
 L’association vise également la promotion des jeux de figurine auprès du public, notamment en organisant ou en participant à des conventions de jeu, des tournois ou des opérations de vulgarisation auprès du grand public.
 
-Nous jouons plutôt à Warhammer 40k, un peu KillTeam, mais nous sommes ouvert pour découvrir autre chose.
+Nous jouons plutôt à Warhammer 40k, Age of Sigmar, Starwars Legion.
+Il nous arrive de faire un peu KillTeam et de Super Fantasy Brawl, mais nous sommes ouvert pour découvrir autre chose.
 
 Liste des codex joué à l'association : link:../w40k/codex[Les codex et nos joueurs]
 
 Statistiques des parties jouée : link:../w40k/stats[Les Duels]
 
-Pour nous contacter, merci d'envoyer un email à : lartdelachance@gmail.com
+Pour nous contacter, merci d'envoyer un email à : icon:at[] mailto:lartdelachance@gmail.com[]
 
 
 [.copyright]
