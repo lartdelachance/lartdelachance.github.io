@@ -1,0 +1,19 @@
+---
+title: "Partie du 11 janv. 2023"
+date: 2023-01-11T23:05:32+01:00
+description: Soirée de rentrée
+tags:
+    - "Fantasy Brawl"
+    - "X-Wing"
+    - "Hero Quest"
+---
+
+Bonjour à tous,
+
+Pizza et jeux :
+
+* Fantasy Brawl
+* X-Wing
+* Hero Quest
+
+{{< gallery >}}

@@ -1,0 +1,16 @@
+---
+title: "Partie du 18 janv. 2023"
+date: 2023-01-18T23:28:42+01:00
+description: Orks v2
+tags:
+    - "w40k"
+    - "SMC"
+    - "Ork"
+---
+
+Bonjour à tous,
+
+Surprise pour le joueur SMC de se retrouver face à des Orks ancienne génération.
+L'effet surprise passé, les SMC ont tres facilement prit le dessus.
+
+{{< gallery >}}
