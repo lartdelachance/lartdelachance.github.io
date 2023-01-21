@@ -1,0 +1,15 @@
+---
+title: "Partie du 20 janv. 2023"
+date: 2023-01-20T21:24:20+01:00
+description: Cadia tient !
+tags:
+    - "w40k"
+    - "Astra"
+    - "DG"
+---
+
+Bonjour à tous,
+
+Première sorti des cadiens, mais la DeathGuard était trop forte.
+
+{{< gallery >}}
