@@ -1,0 +1,13 @@
+---
+title: "Partie du 25 janv. 2023"
+date: 2023-01-25T09:55:31+01:00
+description: Retour de l’arène de Fabulosa
+tags:
+    - "SFB"
+---
+
+Bonjour à tous,
+
+Affrontement dans l’arène de 2 équipes en mode découverte.
+
+{{< gallery >}}

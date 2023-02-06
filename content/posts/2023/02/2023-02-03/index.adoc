@@ -1,0 +1,22 @@
+---
+title: "Partie du 3 févr. 2023"
+date: 2023-02-04T09:57:07+01:00
+description: Test Board game Ark of Omen
+tags:
+    - "w40k"
+    - "SMC"
+    - "Craftworld"
+    - "IF"
+    - "UM"
+---
+
+Bonjour à tous,
+
+Dans les couloirs d'un Space Hulk, des Spaces Marines du Chaos croisent un détachement de Craftworld.
+Les SMC ont gagné cette première rencontre ... Mais il semble clair qu'il y en aura d'autres.
+
+Plus terre à terre, des Imperials Fist on affronté des Ultramarines.
+La doctrine Devastator est plus forte que la doctrine Tactique, et les IF ont été plus fort.
+
+
+{{< gallery >}}
