@@ -4,10 +4,15 @@
       <div class="copyright copyright--user">{{ $.Site.Copyright | safeHTML }}</div>
       {{ else }}
       {{ partial "logo.html" . }}
-      <div class="copyright">
-        <span>© {{ now.Year }} Powered by <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a></span>
-        <span><a href="https://github.com/panr/hugo-theme-hello-friend" target="_blank">Theme</a> made by <a href="https://github.com/panr" target="_blank">panr</a></span>
-      </div>
+
+      {{/* Le logo de la mairie */}}
+      {{/* http://admin.www.ville-thorigne-fouillard.fr/upload/espace/1/CultureSportsLoisirs/Chartegraphiquepourlesassos.pdf */}}
+      <a
+        href="https://www.thorignefouillard.fr/"
+        class="logo-tho"
+      >
+        <img src="{{ $.Site.BaseURL }}/img/logos/LogoTFVFAssosNBFondblanc_xlarge.jpg" alt="Soutenu par la ville" />
+      </a>
     {{ end }}
   </div>
 </footer>
