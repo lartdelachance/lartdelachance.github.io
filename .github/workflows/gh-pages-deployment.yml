@@ -77,15 +77,18 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     runs-on: ubuntu-latest
+
     needs: build
+
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
 
       - uses: sarisia/actions-status-discord@v1
-        if: always()
+        if: steps.deployment.outcome == 'success'
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
           title: "Mise à jour du site"
