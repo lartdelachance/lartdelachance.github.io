@@ -4,6 +4,7 @@ date: 2022-09-28T10:29:45+02:00
 description: Atelier peinture
 tags:
     - "w40k"
+    - "Other"
 ---
 
 Bonjour à tous,

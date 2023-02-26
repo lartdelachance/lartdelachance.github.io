@@ -3,7 +3,8 @@ title: "Partie du 30 déc. 2022"
 date: 2023-01-07T12:04:48+01:00
 description: Fantasy Brawl
 tags:
-    - "Fantasy Brawl"
+    - "SFB"
+    - "Other"
 ---
 
 Bonjour à tous,

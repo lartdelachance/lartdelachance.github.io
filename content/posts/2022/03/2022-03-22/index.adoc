@@ -4,6 +4,7 @@ date: 2022-03-22T00:00:01
 description: Nous sommes heureux de vous présenter notre association "L'art de la chance"
 tags:
     - "Asso"
+    - "Other"
 ---
 
 Bonjour à tous,

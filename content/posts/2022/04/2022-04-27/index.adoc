@@ -5,6 +5,7 @@ description: Merci à la mairie!
 
 tags:
     - "Asso"
+    - "Other"
 ---
 
 Bonjour à tous,

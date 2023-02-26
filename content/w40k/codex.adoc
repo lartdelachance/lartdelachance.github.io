@@ -1,6 +1,10 @@
 ---
 title: "Les codex et nos joueurs"
+summary: "Les codex et nos joueurs"
 date: 2022-07-09T00:00:01
+tags:
+    - "w40k"
+    - "stats"
 ---
 
 Les codex représentés à l'association :

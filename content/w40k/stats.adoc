@@ -1,6 +1,10 @@
 ---
 title: "Les statistiques des duels"
-
+summary: "Les statistiques des duels"
+date: 2022-07-09T00:00:01
+tags:
+- "statistiques"
+- "duels"
 ---
 
 Ici sont reporté les résultats les plus à jours de nos duels:

@@ -1,6 +1,6 @@
 ---
 title: "Partie du 3 févr. 2023"
-date: 2023-02-04T09:57:07+01:00
+date: 2023-02-03T09:55:31+01:00
 description: Test Board game Ark of Omen
 tags:
     - "w40k"

@@ -3,7 +3,8 @@ title: "Partie du 9 nov. 2022"
 date: 2022-11-09T14:31:47+01:00
 description: Partie découverte Star Wars Légion
 tags:
-    - "Star Wars Legion"
+    - "SWL"
+    - "Other"
 ---
 
 Bonjour à tous,
