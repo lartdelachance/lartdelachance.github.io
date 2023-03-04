@@ -46,6 +46,7 @@ jobs:
       run: sudo gem install asciidoctor asciidoctor-diagram asciidoctor-html5s
 
     - name: Run Hugo
+      timeout-minutes: 30
       run: |
         alias asciidoctor="asciidoctor --attribute=experimental=true --attribute=icons=font"
         hugo --minify
@@ -54,23 +55,6 @@ jobs:
       uses: actions/upload-pages-artifact@v1
       with:
         path: ./public
-
-    # - name: Deploy
-    #   uses: peaceiris/actions-gh-pages@v3
-    #   if: ${{ github.ref == 'refs/heads/main' }}
-    #   with:
-    #     deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-    #     publish_dir: ./public
-    #     publish_branch: gh-pages
-
-    # - uses: sarisia/actions-status-discord@v1
-    #   if: always()
-    #   with:
-    #     webhook: ${{ secrets.DISCORD_WEBHOOK }}
-    #     title: "Mise à jour du site"
-    #     description: "La nouvelle version sera disponible dans quelques minutes sur https://lartdelachance.github.io/"
-    #     nodetail: true
-
 
   # Deployment job
   deploy:
