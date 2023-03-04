@@ -1,0 +1,22 @@
+---
+title: "Partie du 3 mars 2023"
+date: 2023-03-03T09:24:38+01:00
+description: Insert description
+tags:
+    - "w40k"
+    - "AoS"
+    - "BoC"
+    - "Soulblight"
+    - "SMC"
+    - "DG"
+---
+
+Bonjour à tous,
+
+Pour cette partie découverte d'AoS, les Beat Of Chaos ont dominés le terrain en empêchant beaucoup de Soulblight de revenir à "la vie"
+
+Dans un univers parallèle, des Spaces Marines du Chaos ont croisé du Bolter contre un détachement de DeathGuard.
+La bataille a été rude pour les 2 camps, mais les Spaces Marines du Chaos repartent vainqueur.
+
+
+{{< gallery >}}

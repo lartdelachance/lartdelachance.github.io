@@ -1,0 +1,21 @@
+---
+title: "Partie du 1 mars 2023"
+date: 2023-03-02T19:24:18+01:00
+description: Est ce que la force est avec toi ?
+tags:
+    - "w40k"
+    - "Tau"
+    - "UM"
+    - "SWL"
+---
+
+Bonjour à tous,
+
+Ce soir sur une planète d'un système lointain, des Droïdes font face à un détachement mené par Dark Vador lui même.
+Ils n'ont pas été influencé par la force.
+
+A une autre époque dans une autre galaxie, des Tau et des Ultramarines se sont affronté, et aucun n'en est sortie vainqueur.
+Pour cette partie découverte, les Tau ont montré quelques malchances aux dés.
+
+
+{{< gallery >}}
