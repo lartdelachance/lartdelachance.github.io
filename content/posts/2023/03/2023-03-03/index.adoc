@@ -1,7 +1,7 @@
 ---
 title: "Partie du 3 mars 2023"
 date: 2023-03-03T09:24:38+01:00
-description: Insert description
+description: La guerre !!!
 tags:
     - "w40k"
     - "AoS"
