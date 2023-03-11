@@ -1,0 +1,16 @@
+---
+title: "Partie du 10 mars 2023"
+date: 2023-03-11T10:37:20+01:00
+description: Toujours dans la découverte
+tags:
+    - "w40k"
+    - "Tau"
+    - "DG"
+---
+
+Bonjour à tous,
+
+Seconde partie pour ce détachement Tau.
+Ils ont pu utiliser de nouvelles capacités et compétences, mais la résistance de la DeathGuard a été un frein a leur expansion.
+
+{{< gallery >}}

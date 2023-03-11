@@ -1,0 +1,15 @@
+---
+title: "Partie du 8 mars 2023"
+date: 2023-03-11T10:37:17+01:00
+description: AG et jeux
+tags:
+    - "Asso"
+    - "Warcry"
+    - "SFB"
+---
+
+Bonjour à tous,
+
+Apres notre AG, pizza et bière découverte de Warcry et SuperFantasyBrawl.
+
+{{< gallery >}}
