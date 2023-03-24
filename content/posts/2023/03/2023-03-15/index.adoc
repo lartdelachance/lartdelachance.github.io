@@ -1,0 +1,16 @@
+---
+title: "Partie du 15 mars 2023"
+date: 2023-03-19T10:28:23+01:00
+description: Vitesse ou tir
+tags:
+    - "w40k"
+    - "DA"
+    - "Tau"
+---
+
+Bonjour à tous,
+
+Toujours dans l'apprentissage de l'utilisation de leur puissance de feu, les Tau se sont essayé sur les motos Dark Anglels.
+Certaines armes ne devaient pas être bien entretenu.
+
+{{< gallery >}}

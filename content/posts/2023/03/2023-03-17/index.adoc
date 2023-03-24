@@ -1,0 +1,19 @@
+---
+title: "Partie du 17 mars 2023"
+date: 2023-03-19T10:28:27+01:00
+description: Nuit du Jeu à Thorigné-Fouillard
+tags:
+    - "Asso"
+---
+
+Bonjour à tous,
+
+Lors de la Nuit du Jeux de Thorigné-Fouillard, nous voulions proposer 2 activités :
+
+* Découverte de Warhammer 40.000
+* Atelier peinture
+
+C'est ce second qui a attirée plus de monde.
+
+
+{{< gallery >}}
