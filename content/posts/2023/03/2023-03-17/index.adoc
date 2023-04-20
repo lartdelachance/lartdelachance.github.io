@@ -4,6 +4,7 @@ date: 2023-03-19T10:28:27+01:00
 description: Nuit du Jeu à Thorigné-Fouillard
 tags:
     - "Asso"
+    - "Nuit du jeux"
 ---
 
 Bonjour à tous,

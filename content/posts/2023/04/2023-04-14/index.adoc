@@ -1,0 +1,21 @@
+---
+title: "Partie du 14 avr. 2023"
+date: 2023-04-20T08:31:32+02:00
+description: Boarding Action à 4
+tags:
+    - "w40k"
+    - "IF"
+    - "Sala"
+    - "SMC"
+
+---
+
+Bonjour à tous,
+
+Le puissant space hulk Vermiis Tenebris a été pris d'assaut par les forces unifiées des imperial fists et des salamanders.
+
+Les serviteurs du roi-cadavre ont profité des tentions entre les deux dandes d'adorateurs des Puissances de la Ruine pour les repousser au fond du réseau tentaculaire des courcives du colossal vaisseau...
+
+Victoire Imperium!
+
+{{< gallery >}}

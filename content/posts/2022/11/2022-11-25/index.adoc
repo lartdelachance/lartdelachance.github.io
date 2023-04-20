@@ -5,7 +5,7 @@ description: Qui contrôlera la pyramide ?
 tags:
     - "w40k"
     - "SMC"
-    - "Tyranid"
+    - "Tyranide"
 ---
 
 Bonjour à tous,

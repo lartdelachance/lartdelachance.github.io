@@ -1,0 +1,21 @@
+---
+title: "Partie du 7 avr. 2023"
+date: 2023-04-07T15:39:17+02:00
+description: Armures de taille différentes
+tags:
+    - "w40k"
+    - "IK"
+    - "Tau"
+---
+
+Bonjour à tous,
+
+Affrontement mécanique entre les Chevaliers du Chaos et le Bien Suprême.
+
+Les deux premiers tir de Railgun et missile seeker sont des 1 sans reroll possible.
+La broadside a finit le Knight quand même.
+
+
+Et au final les titans se sont imposé.
+
+{{< gallery >}}

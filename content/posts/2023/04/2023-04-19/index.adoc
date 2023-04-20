@@ -1,0 +1,17 @@
+---
+title: "Partie du 19 avr. 2023"
+date: 2023-04-20T08:35:11+02:00
+description: Boarding Action à 3
+tags:
+    - "w40k"
+    - "Tau"
+    - "SMC"
+    - "DG"
+---
+
+Bonjour à tous,
+
+Victoire de la puissante Death Guard!
+Le Bien Supreme s'est honorablement défendu tandis que les Voïd Vulturs ont subit la puissance de leurs ennemis tout au long de la bataille!
+
+{{< gallery >}}

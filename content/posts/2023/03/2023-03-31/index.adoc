@@ -1,0 +1,17 @@
+---
+title: "Partie du 31 mars 2023"
+date: 2023-03-31T15:38:48+02:00
+description: Doctrine Devastator
+tags:
+    - "w40k"
+    - "IF"
+    - "IH"
+---
+
+Bonjour à tous,
+
+Affrontement de 2 détachements de l'Imperium lourdement armé.
+
+Les Iron Hands ont mieux su tirer profit de la Doctrine Dévastateur.
+
+{{< gallery >}}

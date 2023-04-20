@@ -1,0 +1,17 @@
+---
+title: "Partie du 24 mars 2023"
+date: 2023-03-24T15:38:24+02:00
+description: Des zombiiieeesss !!!!!
+tags:
+    - "Zombicide"
+    - "asso"
+---
+
+Bonjour à tous,
+
+Retour à une période contemporaine pour combattre une invasion de Zombies.
+
+Le nettoyage par le vide reste la meilleur solution.
+
+
+{{< gallery >}}
