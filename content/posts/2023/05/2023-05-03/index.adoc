@@ -1,0 +1,15 @@
+---
+title: "Partie du 3 mai 2023"
+date: 2023-05-04T22:58:40+02:00
+description: Découverte AoS pour Nurgle
+tags:
+    - "Aos"
+    - "Beasts of Chaos"
+    - "Nurgle"
+---
+
+Bonjour à tous,
+
+Première partie pour les Maggotkin de Nurgle, mais la brutalité des Beasts of Chaos est sans appel sur le dénouement.
+
+{{< gallery >}}
