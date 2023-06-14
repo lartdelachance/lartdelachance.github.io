@@ -4,6 +4,7 @@ languageCode = "fr"
 theme = "hello-friend"
 paginate = 5
 defaultContentLanguage = 'fr'
+timeout='10m'
 
 [markup]
   [markup.asciidocExt]
@@ -42,21 +43,23 @@ defaultContentLanguage = 'fr'
   #(default is Description or Summary metadata in the front matter)
   # rssFullText = true
 
+  title = "L'art de la chance"
+  subtitle = "Ou quand la vie te donne des 1 relance 1"
+  keywords = ""
+  copyright = ""
+  menuMore = "Voir plus"
+  writtenBy = "Ecrit par"
+  readMore = "Lire plus"
+  readOtherPosts = "Lire d'autres posts"
+  newerPosts = "Posts récent"
+  olderPosts = "Posts ancien"
+  minuteReadingTime = "min read"
+  dateFormatSingle = "2006-01-02"
+  dateFormatList = "2006-01-02"
+
 [languages]
   [languages.fr]
-    title = "L'art de la chance"
-    subtitle = "Ou quand la vie te donne des 1 relance 1"
-    keywords = ""
-    copyright = ""
-    menuMore = "Voir plus"
-    writtenBy = "Ecrit par"
-    readMore = "Lire plus"
-    readOtherPosts = "Lire d'autres posts"
-    newerPosts = "Posts récent"
-    olderPosts = "Posts ancien"
-    minuteReadingTime = "min read"
-    dateFormatSingle = "2006-01-02"
-    dateFormatList = "2006-01-02"
+
     # leave empty to disable, enter display text to enable
     # lastModDisplay = ""
 

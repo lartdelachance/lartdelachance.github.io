@@ -47,10 +47,10 @@ jobs:
       run: sudo gem install asciidoctor asciidoctor-diagram asciidoctor-html5s
 
     - name: Run Hugo
-      timeout-minutes: 30
+      timeout-minutes: 60
       run: |
         alias asciidoctor="asciidoctor --attribute=experimental=true --attribute=icons=font"
-        hugo --minify
+        hugo --debug --gc --log
 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v1
