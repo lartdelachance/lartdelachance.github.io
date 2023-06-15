@@ -1,0 +1,57 @@
+---
+title: "Partie du 14 juin 2023"
+date: 2023-06-15T08:53:09+02:00
+description: Première V10
+tags:
+    - "w40k"
+    - "SMC"
+    - "DG"
+---
+
+Bonjour à tous,
+
+Sans les coups en points mais le contenu des Combat Patrol, petite découverte des mécanismes de cette V10.
+
+Les commentaires des 2 joueurs :
+
+[quote, joueur DG]
+--
+Alors, comme attendu/supposé, presque toute la v9 est là mais mieux presenté, rangé et nommé.
+Le Battle Shock va être a maitriser, tout comme le peu de CP. Pour les décors c'est beaucoup plus simple et moins prise de tête.
+
+Ça c'est pour le commun a toutes les factions
+
+Pour les Index ... Ba on verra très rapidement qui s'en sort me mieux.
+La combat patrol DG se fait table rase T3 par la CP SMC ... avec de la malchance des 2 côtés
+
+Avant tu te demandais quel strata utiliser.
+Là tu te demandes si tu fais ta relance de commandement ou si tu va pas attendre pour autre chose ... Qui n'est pas forcément mieux
+
+Les 5 que j'ai utilisé :
+
+* 2 fois 1PC pour le -1 pour être touché DG
+* 1PC relance de commandement Basic
+* 2PC de contre-offensive
+
+Et pour 0Pc le strata du Biologus
+--
+
+
+[quote, joueur SMC]
+--
+En effet la v10 est une v9 beaucoup plus ergonomique.
+
+On a vraiment envie de jouer pleins de persos, en tout cas je le recent vraiment en smc.
+
+La gestion des pc est absolument cruciale car effectivement, aussitot gagné, aussitot dépensé! Du coup tous les triks de gestion de pc sont hyper importants.
+
+Quand à l'ébranlement effectivement il va falloir voir ce qu'on peut en faire.
+
+En fait la vrai nouveauté vient des datasheets elles meme et de la façon dont on inclu les persos dans les unites je trouve.
+
+Mais ça donne envie quoi!
+--
+
+*Conclusion* : Il faut faire pleins de parties pour prendre du plaisir à découvrir les nouvelles synergies.
+
+{{< gallery >}}
