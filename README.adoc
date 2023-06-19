@@ -5,5 +5,9 @@
 Pour créer une nouveau `post` :
 [source,bash]
 ----
-hugo new --kind partie posts/2023/06/2023-06-07
+hugo new --kind partie posts/2023/06/2023-06-
 ----
+
+
+
+mogrify -format webP -quality 60 -define webp:lossless=false -path . *.jpg
