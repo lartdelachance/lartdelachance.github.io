@@ -50,7 +50,7 @@ jobs:
       timeout-minutes: 60
       run: |
         alias asciidoctor="asciidoctor --attribute=experimental=true --attribute=icons=font"
-        hugo --debug --gc --log
+        hugo --minify
 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v1
