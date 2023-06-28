@@ -1,0 +1,16 @@
+---
+title: "Partie du 23 juin 2023"
+date: 2023-06-28T09:58:58+02:00
+description: premier 2v2 Aos
+tags:
+    - "AoS"
+    - "Skaven"
+    - "Nurgle"
+    - "Slaves to Darkness"
+---
+
+Bonjour à tous,
+
+Infestation de rats et de maladies d'un coté, et force de l'autre.
+
+{{< gallery >}}
