@@ -4,10 +4,16 @@
 
 Pour créer une nouveau `post` :
 [source,bash]
-----
-hugo new --kind partie posts/2023/06/2023-06-
-----
+--
+hugo new --kind partie posts/2023/08/2023-08-
+--
 
-
-
-mogrify -format webP -quality 60 -define webp:lossless=false -path . *.jpg
+Pour convertir les images :
+[source,bash]
+--
+for f in $(find . -name '*.jpg');
+  do echo "Converting $f";
+  mogrify -format webP -quality 60 -define webp:lossless=false "$f";
+  rm "$f";
+done;
+--

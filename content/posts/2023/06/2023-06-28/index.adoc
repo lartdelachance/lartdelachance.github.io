@@ -1,0 +1,17 @@
+---
+title: "Partie du 28 juin 2023"
+date: 2023-08-01T15:12:54+02:00
+description: Re-découvrir son armée
+tags:
+    - "w40k"
+    - "Tyranides"
+    - "DG"
+    - "Nécron"
+    - "Tau"
+---
+
+Bonjour à tous,
+
+La nouvelle version nous fait re-sortir une à une toutes nos armées, et c'est cool.
+
+{{< gallery >}}
