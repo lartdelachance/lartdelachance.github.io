@@ -1,0 +1,23 @@
+---
+title: "Partie du 4 août 2023"
+date: 2023-08-08T23:52:52+02:00
+description: Insert description
+tags:
+    - "w40k"
+    - "SM"
+    - "Aldari"
+    - "Aos"
+    - "Skaven"
+---
+
+Bonjour à tous,
+
+Skaven contre Skaven, juste pour s'arracher des poils et tirer sur la queue.
+Évidement des Skaven ont gagné, mais c'était surtout pour (ré)apprendre les règles.
+
+Au 41ème millénaire, des Spaces Marines ont affronté des Aeldari.
+Le "Serment de l'instant" a été plus fort que les dés du "fils du destin".
+
+
+
+{{< gallery >}}
