@@ -1,0 +1,14 @@
+---
+title: "Partie du 18 août 2023"
+date: 2023-08-25T17:29:41+02:00
+description: Nuances de rouge
+tags:
+    - "w40k"
+    - "AdMech"
+    - "SMC"
+    - "AoS"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}

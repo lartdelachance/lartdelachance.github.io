@@ -1,0 +1,11 @@
+---
+title: "Partie du 25 août 2023"
+date: 2023-08-25T17:29:52+02:00
+description: AoS et le Chaos
+tags:
+    - "Aos"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}

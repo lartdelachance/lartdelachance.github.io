@@ -1,7 +1,7 @@
 ---
 title: "Partie du 4 août 2023"
 date: 2023-08-08T23:52:52+02:00
-description: Insert description
+description: Combat de rats
 tags:
     - "w40k"
     - "SM"
