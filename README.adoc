@@ -5,7 +5,7 @@
 Pour créer une nouveau `post` :
 [source,bash]
 --
-hugo new --kind partie posts/2023/08/2023-08-
+hugo new --kind partie posts/2023/09/2023-09-
 --
 
 Pour convertir les images :

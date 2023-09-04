@@ -1,0 +1,16 @@
+---
+title: "Partie du 1 sept. 2023"
+date: 2023-09-04T09:01:35+02:00
+description: Dieu Machine contre Nurgle
+tags:
+    - "w40k"
+    - "AdMech"
+    - "DG"
+---
+
+Bonjour à tous,
+
+L'Adeptus Mecanicus semble être insensible et rejette les bienfaits de Nurgle.
+
+
+{{< gallery >}}
