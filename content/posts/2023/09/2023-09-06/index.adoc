@@ -1,0 +1,19 @@
+---
+title: "Partie du 6 sept. 2023"
+date: 2023-09-07T23:32:13+02:00
+description: Je joue contre qui ?
+tags:
+    - "w40k"
+    - "Nécron"
+    - "SMC"
+    - "Drukhari"
+    - "DG"
+---
+
+Bonjour à tous,
+
+Ce soir, chacun est venu avec une liste de 1000pts et nous avons tiré au sort les affrontements.
+C'est ainsi que les Nécrons ont affronté dans un univers de ruines les Spaces Marines du Chaos.
+Et que des Drukhari et la Death Guard ont échangé leur sang.
+
+{{< gallery >}}
