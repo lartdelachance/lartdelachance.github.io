@@ -1,0 +1,43 @@
+---
+title: "Campagne Présages"
+summary: "Campagne Présages"
+date: 2023-06-01T00:00:01
+weight: 1
+tags:
+    - "aos"
+    - "campagne"
+---
+
+[.campagne]
+--
+Une rumeur s'élève dans les royaumes mortels, les croisades Eophores sortent des cités de Sigmar.
+
+Une nouvelle ère de conflits se profile, il suffit d'observer les présages.
+
+Les pluies de Ghyran alternent entre bienfaitrices et purulentes.
+Des bûchers sont érigés par des fanatiques en Aqshy.
+En Ghur, les monstres caverneux sortent enragés par des chants chamaniques.
+Les morts de Shyish ne reposent à nouveau plus en paix.
+Les royaumes Lumineths de Hyish sont assaillis par des créatures cannibales.
+Des pyrotueurs luttent aux côtés de leurs alliés en Ulgu.
+Dans les cieux changeant du royaume de Chamon sonne un glas désespérant.
+
+Seul Azyr reste inébranlable et silencieux.
+
+Les seigneurs de guerre fourbissent leurs armes et préparent leurs osts à la bataille. Une nouvelle ère de conquête débute.
+--
+
+C'est ainsi que commence notre campagne AoS.
+
+Les armées :
+
+* link:/aos/armees/quetzl[Les Gardiens de Quetzl]
+* link:/aos/armees/varlicha[La Cour écarlate de Varlicha]
+* link:/aos/armees/morghur[Les Profanateurs de Morghur]
+* link:/aos/armees/horde-rouge[La Horde Rouge]
+* link:/aos/armees/fetide[La Chaire Fétide]
+* link:/aos/armees/meute[La Meute du Galeux]
+* link:/aos/armees/feu-maudit[Les Étudiants du Feu maudit]
+* link:/aos/armees/ravageurs[Les ravageurs pourpres]
+
+Vous retrouvez les parties link:/tags/campagne/[avec une recherche par tags]

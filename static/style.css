@@ -36,3 +36,25 @@ a.logo img {
 .attribution {
     text-align: right;
 }
+
+.campagne {
+    border: 1px solid black;
+    border-radius: 15px;
+    font-family: 'Augusta', sans-serif;
+    font-size: 1.5em;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.campagne .content {
+    margin: 10px 0;
+}
+
+.campagne .paragraph {
+    width: 100%;
+}
+
+.campagne .paragraph p {
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+}

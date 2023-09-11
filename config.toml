@@ -76,12 +76,19 @@ timeout='10m'
         identifier = "about"
         name = "A propos"
         url = "/about"
+        weight = 2
 
       [[languages.fr.menu.main]]
         identifier = "tags"
         name = "Tags"
         url = "/tags"
+        weight = 3
 
+      [[languages.fr.menu.main]]
+        identifier = "campagne"
+        name = "Campagne Présages"
+        url = "/aos/campagne"
+        weight = 1
 
 [security]
 enableInlineShortcodes = false
