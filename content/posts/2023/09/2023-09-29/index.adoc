@@ -1,0 +1,16 @@
+---
+title: "Partie du 29 sept. 2023"
+date: 2023-11-14T22:35:49+01:00
+description: Partie du 29 sept. 2023
+tags:
+    - "aos"
+    - "Boc"
+    - "Maggotkin of Nurgle"
+    - "Std"
+    - "DoT"
+---
+
+Bonjour à tous,
+
+
+{{< gallery >}}

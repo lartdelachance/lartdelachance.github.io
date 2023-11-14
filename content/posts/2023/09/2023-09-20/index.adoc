@@ -1,0 +1,15 @@
+---
+title: "Partie du 20 sept. 2023"
+date: 2023-11-14T22:32:58+01:00
+description: Partie du 20 sept. 2023
+tags:
+    - "Aos"
+    - "Maggotkin of Nurgle"
+    - "Soulblight-gravelords"
+    - "Disciples de tzeentch"
+---
+
+Bonjour à tous,
+
+
+{{< gallery >}}

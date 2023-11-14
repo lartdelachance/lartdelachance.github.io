@@ -1,0 +1,16 @@
+---
+title: "Partie du 8 nov. 2023"
+date: 2023-11-14T22:46:36+01:00
+description: Partie du 8 nov. 2023
+tags:
+    - "w40k"
+    - "Nécron"
+    - "DG"
+    - "Grey Knights"
+    - "Thousand Sons"
+---
+
+Bonjour à tous,
+
+
+{{< gallery >}}

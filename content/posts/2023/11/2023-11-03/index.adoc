@@ -1,0 +1,15 @@
+---
+title: "Partie du 3 nov. 2023"
+date: 2023-11-14T22:45:11+01:00
+description: Orktobert Fest
+tags:
+    - "w40k"
+    - "Orks"
+    - "IH"
+    - "Nécrons"
+---
+
+Bonjour à tous,
+
+
+{{< gallery >}}

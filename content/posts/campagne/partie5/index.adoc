@@ -7,6 +7,7 @@ tags:
     - "campagne"
 ---
 
+image::./IMG_20230901_230732.webP[width=50%]
 
 [.campagne]
 --
