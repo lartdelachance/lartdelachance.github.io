@@ -1,0 +1,16 @@
+---
+title: "Partie du 11 oct. 2023"
+date: 2023-11-14T22:39:19+01:00
+description: Partie du 11 oct. 2023
+tags:
+    - "w40k"
+    - "DG"
+    - "SMC"
+    - "Nécron"
+    - "DA"
+---
+
+Bonjour à tous,
+
+
+{{< gallery >}}

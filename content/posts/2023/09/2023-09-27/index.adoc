@@ -1,0 +1,13 @@
+---
+title: "Partie du 27 sept. 2023"
+date: 2023-11-14T22:34:28+01:00
+description: Partie du 27 sept. 2023
+tags:
+    - "w40k"
+    - "aos"
+---
+
+Bonjour à tous,
+
+
+{{< gallery >}}

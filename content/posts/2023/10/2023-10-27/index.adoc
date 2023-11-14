@@ -1,0 +1,20 @@
+---
+title: "Partie du 27 oct. 2023"
+date: 2023-11-14T22:42:32+01:00
+description: Partie du 27 oct. 2023
+tags:
+    - "w40k"
+    - "IF"
+    - "SMC"
+    - "DG"
+    - "Tyranid"
+    - "AoS"
+    - "Maggotkin of Nurgle"
+    - "Skaven"
+    - "Ogor Mawtribes"
+---
+
+Bonjour à tous,
+
+
+{{< gallery >}}

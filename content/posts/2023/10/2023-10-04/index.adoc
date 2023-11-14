@@ -1,0 +1,14 @@
+---
+title: "Partie du 4 oct. 2023"
+date: 2023-11-14T22:38:37+01:00
+description: Partie du 4 oct. 2023
+tags:
+    - "w40k"
+    - "Maggotkin of Nurgle"
+    - "StD"
+---
+
+Bonjour à tous,
+
+
+{{< gallery >}}

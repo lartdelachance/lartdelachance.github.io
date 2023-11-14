@@ -1,0 +1,14 @@
+---
+title: "Partie du 10 nov. 2023"
+date: 2023-11-14T22:47:13+01:00
+description: Partie du 10 nov. 2023
+tags:
+    - "w40k"
+    - "IF"
+    - "DG"
+---
+
+Bonjour à tous,
+
+
+{{< gallery >}}

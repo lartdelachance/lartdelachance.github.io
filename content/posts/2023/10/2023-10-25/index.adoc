@@ -1,0 +1,17 @@
+---
+title: "Partie du 25 oct. 2023"
+date: 2023-11-14T22:41:52+01:00
+description: Partie du 25 oct. 2023
+tags:
+    - "w40k"
+    - "DG"
+    - "DA"
+    - "Aos"
+    - "Fyreslayers"
+    - "Orruk Warclans"
+---
+
+Bonjour à tous,
+
+
+{{< gallery >}}

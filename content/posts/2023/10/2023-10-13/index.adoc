@@ -1,0 +1,16 @@
+---
+title: "Partie du 13 oct. 2023"
+date: 2023-11-14T22:39:42+01:00
+description: Partie du 13 oct. 2023
+tags:
+    - "w40k"
+    - "Maggotkin of Nurgle"
+    - "Orruk Warclans"
+    - "Gloomspite Gitz"
+    - "Soulblight Gravelords"
+---
+
+Bonjour à tous,
+
+
+{{< gallery >}}
