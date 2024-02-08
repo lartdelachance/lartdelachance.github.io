@@ -1,0 +1,12 @@
+---
+title: "Partie du 29 déc. 2023"
+date: 2024-02-08T08:26:49+01:00
+description: Partie du 29 déc. 2023
+tags:
+    - "w40k"
+    - "w40k"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}

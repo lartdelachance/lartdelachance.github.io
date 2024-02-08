@@ -1,0 +1,13 @@
+---
+title: "Partie du 20 déc. 2023"
+date: 2024-02-08T08:25:26+01:00
+description: Partie du 20 déc. 2023
+tags:
+    - "w40k"
+    - "KillTeam"
+    - "Aos"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}

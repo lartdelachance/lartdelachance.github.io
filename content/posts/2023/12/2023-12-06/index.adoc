@@ -1,0 +1,12 @@
+---
+title: "Partie du 6 déc. 2023"
+date: 2024-02-08T08:23:05+01:00
+description: Partie du 6 déc. 2023
+tags:
+    - "w40k"
+    - "AoS"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}
