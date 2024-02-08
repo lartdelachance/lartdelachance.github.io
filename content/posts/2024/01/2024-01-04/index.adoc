@@ -1,0 +1,12 @@
+---
+title: "Partie du 4 janv. 2024"
+date: 2024-02-08T08:27:29+01:00
+description: Partie du 4 janv. 2024
+tags:
+    - "Aos"
+    - "Aos"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}

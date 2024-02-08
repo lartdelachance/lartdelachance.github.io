@@ -1,0 +1,12 @@
+---
+title: "Partie du 17 janv. 2024"
+date: 2024-02-08T08:28:56+01:00
+description: Partie du 17 janv. 2024
+tags:
+    - "w40k"
+    - "w40k"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}
