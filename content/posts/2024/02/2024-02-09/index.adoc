@@ -1,0 +1,22 @@
+---
+title: "Nuit du Jeu 2024"
+date: 2024-02-10T10:51:36+01:00
+description: Seconde participation à la Nuit du Jeu de Thorigné-Fouillard
+tags:
+    - "Asso"
+    - "Nuit du jeux"
+---
+
+Bonjour à tous,
+
+Comme l'année dernière, nous avons proposé 2 activités :
+
+* Découverte de Warhammer 40.000
+* Atelier peinture
+
+Cette année encore beaucoup de mains ont pu peindre.
+
+Et quelques autres ont découvert le jeux
+
+
+{{< gallery >}}
