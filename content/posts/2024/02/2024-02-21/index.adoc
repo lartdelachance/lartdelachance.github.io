@@ -1,0 +1,14 @@
+---
+title: "Partie du 21 févr. 2024"
+date: 2024-02-22T10:16:00+01:00
+description: Partie du 21 févr. 2024
+tags:
+    - "w40k"
+    - "Aos"
+    - "KillTeam"
+---
+
+Bonjour à tous,
+
+
+{{< gallery >}}

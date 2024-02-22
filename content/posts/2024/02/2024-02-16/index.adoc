@@ -1,0 +1,13 @@
+---
+title: "Partie du 16 févr. 2024"
+date: 2024-02-22T10:12:38+01:00
+description: Partie du 16 févr. 2024
+tags:
+    - "w40k"
+    - "AoS"
+---
+
+Bonjour à tous,
+
+
+{{< gallery >}}
