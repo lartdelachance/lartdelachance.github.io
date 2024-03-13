@@ -4,7 +4,16 @@ date: 2024-02-08T08:29:42+01:00
 description: Partie du 19 janv. 2024
 tags:
     - "w40k"
+    - "CK"
+    - "Thousand Sons"
     - "AoS"
+    - "Slaves to Darkness"
+	- "StD"
+    - "Gloomspite Gitz"
+    - "Stormcast Eternals"
+	- "Stormcast"
+    - "Blades of Khorne"
+	- "BoK"
 ---
 
 Bonjour à tous,

@@ -7,8 +7,10 @@ tags:
     - "IF"
     - "SMC"
     - "AoS"
+    - "Ossiarch Bonereapers"
     - "Ossiarch"
     - "Slaves to Darkness"
+    - "StD"
 ---
 
 Bonjour à tous,

@@ -5,8 +5,12 @@ description: Partie du 20 sept. 2023
 tags:
     - "Aos"
     - "Maggotkin of Nurgle"
-    - "Soulblight-gravelords"
-    - "Disciples de tzeentch"
+    - "Maggotkin"
+    - "Nurgle"
+    - "Soulblight Gravelords"
+    - "Soulblight"
+    - "Disciples of Tzeentch"
+    - "DoT"
 ---
 
 Bonjour à tous,

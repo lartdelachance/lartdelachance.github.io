@@ -10,6 +10,7 @@ tags:
     - "SM"
     - "AoS"
     - "Seraphon"
+    - "Soulblight Gravelords"
     - "Soulblight"
 ---
 

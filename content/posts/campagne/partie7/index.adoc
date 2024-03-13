@@ -5,6 +5,12 @@ description: Collecteurs Ossiarque VS Eternels de l'Orage
 tags:
     - "aos"
     - "campagne"
+    - "Ossiarch Bonereapers"
+    - "Ossiarch"
+    - "Stormcast Eternals"
+    - "Stormcast"
+    - "Xeroxjager"
+    - "Anto"
 ---
 
 
@@ -29,3 +35,5 @@ Les pertes étaient lourdes, mais la guerre était loin d’être terminée. Les
 --
 
 Victoire majeure des Eternels de l'Orage !
+
+{{< gallery >}}

@@ -5,6 +5,12 @@ description: Demons de Khorne VS Seigneurs Ruinemânes
 tags:
     - "aos"
     - "campagne"
+    - "Soulblight Gravelords"
+    - "Soulblight"
+    - "Blades of Khorne"
+    - "BoK"
+    - "Norgash"
+    - "Swiki"
 ---
 
 
@@ -24,4 +30,6 @@ Dissimulant sa défaite martiale sous le succès de la découverte d’Ar’Gath
 --
 
 Victoire majeure des Seigneur Ruinemânes !
+
+{{< gallery >}}
 

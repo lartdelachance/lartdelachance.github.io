@@ -6,7 +6,7 @@ tags:
     - "w40k"
     - "Nécron"
     - "DG"
-    - "Grey Knights"
+    - "GK"
     - "Thousand Sons"
 ---
 

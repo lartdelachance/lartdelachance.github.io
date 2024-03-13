@@ -6,6 +6,7 @@ tags:
     - "AoS"
     - "Skaven"
     - "Soulblight Gravelords"
+    - "Soulblight"
 ---
 
 Bonjour à tous,

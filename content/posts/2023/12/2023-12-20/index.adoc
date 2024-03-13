@@ -4,8 +4,17 @@ date: 2024-02-08T08:25:26+01:00
 description: Partie du 20 déc. 2023
 tags:
     - "w40k"
+    - "Thousand Sons"
+    - "DA"
     - "KillTeam"
+    - "Astra"
+    - "Aeldari"
     - "Aos"
+    - "Maggotkin of Nurgle"
+	- "Maggotkin"
+	- "Nurgle"
+    - "Slaves to Darkness"
+	- "StD"
 ---
 
 Bonjour à tous,

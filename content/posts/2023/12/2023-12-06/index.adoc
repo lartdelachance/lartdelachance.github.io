@@ -4,7 +4,14 @@ date: 2024-02-08T08:23:05+01:00
 description: Partie du 6 déc. 2023
 tags:
     - "w40k"
+    - "DA"
+    - "Drukhari"
     - "AoS"
+    - "Maggotkin of Nurgle"
+	- "Maggotkin"
+	- "Nurgle"
+    - "Orruk Warclans"
+	- "Orruk"
 ---
 
 Bonjour à tous,

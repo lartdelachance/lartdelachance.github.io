@@ -8,6 +8,7 @@ tags:
     - "DG"
     - "DA"
     - "Craftworld"
+    - "Aeldari"
 ---
 
 Bonjour à tous,

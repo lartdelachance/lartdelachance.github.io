@@ -7,6 +7,11 @@ tags:
     - "AdMech"
     - "SMC"
     - "AoS"
+    - "Blades of Khorne"
+    - "BoK"
+    - "Slaves to Darkness"
+    - "StD"
+    - "Skaven"
 ---
 
 Bonjour à tous,

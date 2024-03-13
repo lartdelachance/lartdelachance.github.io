@@ -5,6 +5,16 @@ description: Disciples de Tzeentch VS Seigneur Ruinemânes VS Putrescent de Nurg
 tags:
     - "aos"
     - "campagne"
+    - "Soulblight Gravelords"
+    - "Soulblight"
+    - "Disciples of Tzeentch"
+    - "DoT"
+    - "Maggotkin of Nurgle"
+    - "Maggotkin"
+    - "Nurgle"
+    - "Atadilotho"
+    - "Norgash"
+    - "Xeroxjager"
 ---
 
 
@@ -31,3 +41,4 @@ Mais à la fin de la matinée, les disciples de Tzeentch gardent contrôle du te
 --
 
 Victoire majeure des Disciples de Tzeentch !
+{{< gallery >}}

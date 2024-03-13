@@ -5,11 +5,11 @@ description: Les SM contre le reste du monde
 tags:
     - "w40k"
     - "Tyranide"
-    - "IF"
+	- "IF"
+	- "Sala"
+	- "UM"
     - "Ork"
-    - "Sala"
     - "SMC"
-    - "UM"
 ---
 
 Bonjour à tous,

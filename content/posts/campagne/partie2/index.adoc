@@ -1,10 +1,17 @@
 ---
 title: "Campagne - Partie 2"
-date: 2023-08-04T23:55:20+02:00
+date: 2023-08-09T23:55:20+02:00
 description: Bêtes du Chaos VS Putrescent de Nurgle
 tags:
     - "aos"
     - "campagne"
+    - "Beasts of chaos"
+    - "BoC"
+    - "Maggotkin of Nurgle"
+    - "Maggotkin"
+    - "Nurgle"
+    - "Xeroxjager"
+    - "Atadilotho"
 ---
 
 [.campagne]
@@ -29,3 +36,5 @@ Le massacre fut glorieux. De nombreuses offrandes pour la pierre des Hardes fure
 --
 
 Victoire majeure des Bêtes du Chaos !
+
+{{< gallery >}}

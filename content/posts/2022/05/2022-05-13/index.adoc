@@ -5,6 +5,7 @@ description: Craftworld vs Custodes vs DG
 tags:
     - "w40k"
     - "Craftworld"
+    - "Aeldari"
     - "Custo"
     - "DG"
 ---

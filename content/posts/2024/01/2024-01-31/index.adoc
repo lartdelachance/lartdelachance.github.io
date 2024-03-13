@@ -4,7 +4,13 @@ date: 2024-02-08T08:31:41+01:00
 description: Partie du 31 janv. 2024
 tags:
     - "w40k"
+    - "DG"
+    - "World Eater"
+    - "Ork"
+    - "AdMech"
     - "KillTeam"
+    - "SMC"
+    - "SM"
 ---
 
 Bonjour à tous,

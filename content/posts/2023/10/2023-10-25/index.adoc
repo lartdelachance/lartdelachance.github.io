@@ -9,6 +9,7 @@ tags:
     - "Aos"
     - "Fyreslayers"
     - "Orruk Warclans"
+    - "Orruk"
 ---
 
 Bonjour à tous,

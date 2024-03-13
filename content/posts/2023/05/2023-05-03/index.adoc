@@ -4,7 +4,10 @@ date: 2023-05-04T22:58:40+02:00
 description: Découverte AoS pour Nurgle
 tags:
     - "Aos"
-    - "Beasts of Chaos"
+    - "Beasts of chaos"
+    - "BoC"
+    - "Maggotkin of Nurgle"
+    - "Maggotkin"
     - "Nurgle"
 ---
 

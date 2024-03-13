@@ -4,7 +4,14 @@ date: 2024-02-08T08:28:45+01:00
 description: Partie du 10 janv. 2024
 tags:
     - "w40k"
+    - "AdMech"
+    - "GK"
     - "AoS"
+    - "Blades of Khorne"
+	- "BoK"
+    - "Maggotkin of Nurgle"
+	- "Maggotkin"
+	- "Nurgle"
 ---
 
 Bonjour à tous,

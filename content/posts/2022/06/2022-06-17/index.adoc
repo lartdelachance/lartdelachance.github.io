@@ -5,11 +5,11 @@ description: l’empereur protège
 tags:
     - "w40k"
     - "SMC"
-    - "Sister"
+	- "SdB"
 ---
 
 Bonjour à tous,
 
-Ce soir les soeurs de batailles ont repoussées (facilement) l’incursion du Chaos.
+Ce soir les soeurs de batailles ont repoussées (facilement) l''incursion du Chaos.
 
 {{< gallery >}}

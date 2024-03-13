@@ -5,6 +5,7 @@ description: Retour des Tyranides
 tags:
     - "w40k"
     - "Craftworld"
+    - "Aeldari"
     - "Tyranide"
 ---
 

@@ -1,0 +1,51 @@
+---
+title: "Campagne - Partie 20"
+date: 2024-01-04T23:55:20+02:00
+description: Seigneur Ruinemânes & Hantenuit VS Putrescent de Nurgle & Lames de Khorne
+tags:
+    - "aos"
+    - "campagne"
+    - "Soulblight Gravelords"
+    - "Soulblight"
+    - "Nighthaunt"
+    - "Maggotkin of Nurgle"
+    - "Maggotkin"
+    - "Nurgle"
+    - "Blades of Khorne"
+    - "BoK"
+    - "Norgash"
+    - "Traghigmountain"
+    - "Atadilotho"
+    - "Oursbourru"
+
+---
+
+
+[.campagne]
+--
+Sur les terres désolées, où le vent hurle des lamentations d'âmes perdues, la scène était prête pour une confrontation qui entrerait dans les annales des Royaumes Mortels. D'un côté, la Cour Écarlate, une légion redoutée de Seigneurs Ruinemânes sous le commandement de la terrifiante vampire bestiale Varlicha, avait formé une alliance improbable avec la Garde Cramoisie, des Hantenuits vengeurs menés par Gharest Malcor, le Félon, un chevalier spectral de légende. De l'autre côté, une force impitoyable de Lames de Khorne, assoiffées de sang et dirigées par Vorak le Sanglant, s'était jointe aux forces décrépites des Putrescents de Nurgle, conduites par un Grand Immonde grotesque.
+
+L'enjeu était de taille : anéantir un contingent messager crucial de la Grande Alliance du Chaos avant qu'il ne puisse rejoindre le contingent destinataire, porteur de plans qui pourraient changer le cours de la guerre.
+
+La bataille commença avec une intensité féroce. Varlicha, dans un tourbillon de rage et d'élégance mortelle, plongea sa légion de squelettes dans le cœur de l'armée de Vorak. Les guerriers de Khorne, bien que redoutables, se retrouvèrent embourbés dans un marais de morts-vivants, leurs épées tranchantes ne rencontrant que des os et des armures vides.
+
+Tandis que le conflit faisait rage avec une brutalité sans nom, un frisson parcourut le champ de bataille : la Garde Cramoisie, menée par Gharest Malcor, apparut soudainement dans le dos de Vorak le Sanglant. Les fantômes et les spectres, émergents de l'au-delà, lancèrent une attaque surprise qui sema le chaos dans les rangs des Lames de Khorne. Vorak lui-même fut blessé, un coup porté par le Félon qui marqua la première fois que le sang du guerrier était versé par autre chose qu'un rituel de Khorne.
+
+Pendant ce temps, l'armée de Nurgle, libérée des contraintes du combat direct avec les morts-vivants, s'efforçait de protéger les Nurglings qui s'étaient infiltrés avec succès. Le Grand Immonde, une abomination de maladie et de corruption, menait ses troupes avec une joie perverse, veillant à ce que ces porteurs de peste puissent échapper au carnage pour répandre leur infection un autre jour.
+
+Varlicha, sur son trône de crânes, observait le champ de bataille avec un sourire féroce, tandis que Gharest Malcor se tenait à ses côtés, son regard éthéré scrutant l'horizon. 
+Alors que la poussière de la bataille retombait, un paysage de désolation se dévoilait sous le voile du crépuscule. Malgré l'ingéniosité et la férocité des deux généraux morts-vivants, le destin s'était retourné contre les forces de la mort. Varlicha et Gharest Malcor, malgré leur alliance et leur stratégie astucieuse, durent faire face à l'amère réalité de la défaite.
+
+Le contingent messager de la Grande Alliance du Chaos, bien que presque entièrement anéanti par les assauts implacables des vampires et des spectres, avait réussi à accomplir sa mission grâce à l'intervention inattendue de l'armée de Nurgle. Le Grand Immonde, avec ses troupes répugnantes et inébranlables, avait protégé les rares survivants, assurant que les messages et les plans vitaux atteignent leur destination.
+
+La légion de squelettes de Varlicha avait englouti l'armée de Vorak dans un tumulte d'os et de lames, et les Hantenuits avaient réussi une embuscade spectaculaire. Cependant, les blessures infligées à Vorak le Sanglant n'étaient pas suffisantes pour briser son esprit de combat ou celui de ses guerriers assoiffés de sang. Malgré leurs pertes écrasantes, les guerriers de Khorne, animés par une fureur divine, avaient combattu jusqu'à leur dernier souffle, distrayant suffisamment les forces de la mort pour permettre à l'armée de Nurgle de mener à bien sa tâche protectrice.
+
+Dans le camp des vainqueurs, un mélange de satisfaction et de consternation prévalait. Vorak, bien que gravement blessé, savourait la victoire avec une rage triomphante, son regard promettant vengeance et destruction pour tout ce qui oserait se dresser sur son chemin à nouveau. Le Grand Immonde, entouré de ses nurglings joyeusement répugnants, contemplait le champ de bataille avec un sourire grotesque, déjà planifiant la propagation de nouvelles pestilences.
+
+La Cour Écarlate et la Garde Cramoisie, bien que contraintes de battre en retraite, n'étaient pas brisées. Varlicha et Gharest Malcor, bien qu'amers dans leur défaite, reconnaissaient que chaque revers était une leçon, chaque perte une étincelle pour la vengeance. Dans les ténèbres croissantes, ils jurèrent de revenir plus forts, armés de nouvelles stratégies et d'une soif de vengeance qui glacerait le sang de leurs ennemis.
+
+--
+
+Victoire majeure de l'alliance du Chaos !
+
+{{< gallery >}}

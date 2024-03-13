@@ -1,0 +1,35 @@
+---
+title: "Campagne - Partie 18"
+date: 2023-11-24T23:55:20+02:00
+description: Esclaves des Ténèbres VS Kruleboyz
+tags:
+    - "aos"
+    - "campagne"
+    - "Slaves to Darkness"
+    - "StD"
+    - "Orruk Warclans"
+    - "Orruk"
+    - "Norgash"
+    - "Xeroxjager"
+---
+
+
+[.campagne]
+--
+Au cœur des terres sauvages et indomptées de Ghur, le royaume de la bête, une confrontation d'une brutalité inouïe s'est déroulée sous les cieux tumultueux. Eternus, disciple de Be'Lakor et ancien lieutenant de l'Élu Éternel Archaon, a habilement manœuvré pour piéger la bande de guerre de Grokmor le Sournoi, chef des Kruleboyz connus sous le nom "lé Méga Ruzé". L'affrontement qui a suivi serait chanté et craint à travers les âges.
+
+Les Porteurs d'Entropie, armée redoutée venue des brumes mystérieuses d'Ulgu, le royaume des ombres, ont avancé avec une détermination implacable. Une cabale de sorciers, flanquée de chevaliers du chaos et de guerriers vêtus d'armures lourdes, a déferlé sur le champ de bataille avec une soif de sang et de pouvoir. Les Saccageurs noir-serment se sont frayé un chemin à travers les lignes ennemies, assoiffés de la gloire que promet la destruction.
+
+Encerclés et pressés de toutes parts, Grokmor et ses Kruleboyz ont résisté avec une férocité qui défiait leur situation désespérée. L'Idole de Pierre, monument sacré de leur force et de leur détermination, se dressait au centre, repoussant les assauts avec la puissance brute des Orruks. Mais même ce bastion de résistance ne pouvait tenir éternellement. Sous l'assaut incessant des cabalistes, maîtres des arts sombres et des conjurations maléfiques, l'Idole fut finalement détruite, ses éclats de pierre sacrée se dispersant sur le champ de bataille comme les rêves brisés de Grokmor et de sa bande.
+
+Lé Méga Ruzé, malgré leur nom proclamant leur ruse et leur force, furent submergés. La stratégie impitoyable et la puissance magique des Porteurs d'Entropie ne laissaient aucune chance de victoire. Les guerriers d'Eternus, porteurs de la marque de leur allégeance sombre, ont anéanti la résistance des Orruks avec une efficacité terrifiante.
+
+Pourtant, dans ce tableau de défaite et de désolation, une lueur d'espoir persistait. Grokmor le Sournoi, bien qu'épuisé et blessé, survécut à l'affrontement. Sa retraite du champ de bataille n'était pas un acte de lâcheté, mais une tactique de survie. L'esprit de Grokmor restait indompté, son désir de vengeance une flamme inextinguible dans le creuset de sa détermination.
+
+La bataille terminée, les Porteurs d'Entropie ont revendiqué la victoire, mais non sans payer le prix de leur arrogance. Leurs pertes étaient un témoignage silencieux du courage désespéré Méga Ruzé. Eternus, sous le regard voilé de Be'Lakor, contemplait le carnage, conscient que chaque victoire dans les Royaumes Mortels n'était qu'une étape vers une guerre éternelle.
+
+--
+
+Victoire majeure des Esclaves des ténèbres !
+
+{{< gallery >}}

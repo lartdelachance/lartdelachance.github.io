@@ -4,8 +4,15 @@ date: 2024-02-08T08:24:59+01:00
 description: Partie du 13 déc. 2023
 tags:
     - "w40k"
+    - "DA"
+    - "SMC"
     - "AoS"
+    - "Maggotkin of Nurgle"
+	- "Maggotkin"
+	- "Nurgle"
+    - "Sylvaneth"
 ---
+
 
 Bonjour à tous,
 

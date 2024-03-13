@@ -5,6 +5,7 @@ description: Quand t'as pas de chance ...
 tags:
     - "w40k"
     - "Craftworld"
+    - "Aeldari"
     - "Anecdote"
     - "PasDeChance"
 ---

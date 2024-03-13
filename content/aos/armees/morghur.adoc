@@ -5,6 +5,9 @@ date: 2023-06-01T00:00:01
 tags:
     - "aos"
     - "campagne"
+    - "Beasts of chaos"
+    - "BoC"
+    - "Xeroxjager"
 ---
 
 Les profanateurs de Morghur se battent pour prouver leur force et recevoir les bénédictions de Morghur. Devenir un rejeton du chaos morghurite est pour eux un accomplissement et ceux qui atteignent la transformation finale sont vénérés.

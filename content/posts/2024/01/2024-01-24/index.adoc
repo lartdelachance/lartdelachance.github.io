@@ -4,7 +4,8 @@ date: 2024-02-08T08:30:50+01:00
 description: Partie du 24 janv. 2024
 tags:
     - "w40k"
-    - "w40k"
+    - "DG"
+    - "Chaos Demon"
 ---
 
 Bonjour à tous,

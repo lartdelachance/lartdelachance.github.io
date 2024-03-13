@@ -4,7 +4,18 @@ date: 2024-02-08T08:33:22+01:00
 description: Partie du 7 févr. 2024
 tags:
     - "w40k"
+    - "Craftworld"
+    - "Aeldari"
+    - "Drukhari"
+    - "DG"
+    - "GK"
     - "AoS"
+    - "Sylvaneth"
+    - "Slaves to Darkness"
+	- "StD"
+    - "Lumineth"
+    - "Stormcast Eternals"
+	- "Stormcast"
 ---
 
 Bonjour à tous,

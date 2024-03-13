@@ -5,10 +5,12 @@ description: Pas d'humains
 tags:
     - "w40k"
     - "RK"
-    - "Tyranides"
+    - "Tyranide"
     - "SMC"
     - "AoS"
+    - "Ossiarch Bonereapers"
     - "Ossiarch"
+    - "Orruk Warclans"
     - "Orruk"
 ---
 

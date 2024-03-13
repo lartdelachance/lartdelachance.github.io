@@ -5,6 +5,10 @@ description: Skavens VS Vils de Fielsobscur
 tags:
     - "aos"
     - "campagne"
+    - "Skaven"
+    - "Gloomspite gitz"
+    - "Oursenmousse"
+    - "Anto"
 ---
 
 
@@ -27,3 +31,5 @@ De leur côté les Rats des Clans reviennent petit à petit, donnant l'impressio
 --
 
 Victoire mineure des Vils de Fielobscur !
+
+{{< gallery >}}

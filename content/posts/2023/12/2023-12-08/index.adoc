@@ -4,7 +4,13 @@ date: 2024-02-08T08:24:27+01:00
 description: Partie du 8 déc. 2023
 tags:
     - "w40k"
+    - "IF"
+    - "AdMech"
     - "Aos"
+    - "Maggotkin of Nurgle"
+	- "Maggotkin"
+	- "Nurgle"
+    - "Sylvaneth"
 ---
 
 Bonjour à tous,

@@ -9,6 +9,7 @@ tags:
     - "aos"
     - "Fyreslayers"
     - "Blades of Khorne"
+    - "BoK"
 ---
 
 Bonjour à tous,

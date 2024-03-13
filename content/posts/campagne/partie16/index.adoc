@@ -1,0 +1,35 @@
+---
+title: "Campagne - Partie 16"
+date: 2023-10-27T23:55:20+02:00
+description: Skaven VS Putrescent de Nurgle VS Hordegueules Ogors
+tags:
+    - "aos"
+    - "campagne"
+    - "Skaven"
+    - "Ogor Mawtribe"
+    - "Ogor"
+    - "Maggotkin of Nurgle"
+    - "Maggotkin"
+    - "Nurgle"
+    - "Ersokili"
+    - "Traghigmountain"
+    - "Azelgriff"
+---
+
+
+[.campagne]
+--
+La bataille qui se dessinait entre Skrolk le seigneur de la peste Skaven, le puissant Huskar  monté sur Mastoroc et ses Ogor, et Thorglik Brumebilieuse, l'émissaire du déclin à la tête des pillards Putrescents de Nurgle, promettait d'être épique et chaotique.
+Skrolk, rusé et malveillant, avait divisé ses forces pour à la fois défendre son territoire et envahir celui de ses ennemis. Les Ogor, brutaux et assoiffés de combat, avaient pris pour cible les Skavens, déclenchant une bataille féroce. En réponse, les Skavens s'étaient retournés contre les guerriers du chaos de Thorglik, tandis que ces derniers s'étaient rués sur les Ogors.
+Le champ de bataille était devenu un véritable tourbillon de violence et de carnage. Le Verminarque Skaven, une créature imposante et terrifiante, s'était engagé dans un combat titanesque contre le Huskar Ogor. Les deux géants s'étaient affrontés avec une fureur inégalée, mais finalement, le Huskar avait réussi à abattre le Verminarque, bien qu'il en soit ressorti gravement affaibli,sa vie ne tenant qu'à un fil.
+Pendant ce temps, les Rouillarques putregouilles, des guerriers dévoués de Thorglik montés sur d'énorme mouches bouffies par les bienfaits de Nurgle, avaient chargé avec bravoure les troupes Ogor. Contre toute attente, ils avaient résisté vaillamment à la contre-charge dévastatrice de leur cavalerie, éradiquant même la troupe Ogor avant de succomber eux-mêmes.
+Thorglik, observant le champ de bataille, avait finalement pris les choses en main, abattant la cavalerie Ogor restante avec une détermination froide et calculée.
+Les Pesticrates, les guerriers infatigables de Nurgle, s'étaient retrouvés confrontés aux moines de la peste envoyés par Skrolk. Mais, animés par la bénédiction de Nurgle, ils avaient tenu bon, massacrant les moines de la peste et s'assurant la domination sur le champ de bataille.
+Au final, les Putrescents de Nurgle de Thorglik Brumebilieuse avaient remporté une victoire majeure, triomphant sur leurs ennemis et prouvant la suprématie de Nurgle. De plus, ils avaient réussi à accomplir leur quête, retrouvant la Flasque féconde grâce aux démons invoqués sur le champ de bataille.
+C'était une victoire écrasante, marquée par le sang, la maladie et la décomposition, les signes distinctifs de la faveur de Nurgle. Thorglik Brumebilieuse et ses guerriers avaient prouvé leur valeur et renforcé leur dévotion au Dieu de la Peste, semant la mort et la désolation sur leur passage.
+
+--
+
+Victoire majeure pour les Putrescents de Nurgle !
+
+{{< gallery >}}

@@ -4,9 +4,17 @@ date: 2023-08-25T17:29:29+02:00
 description: Du chaos et des bètes
 tags:
     - "AoS"
+    - "Skaven"
+    - "Nighthaunt"
+    - "Beasts of Chaos"
+    - "BoC"
+    - "Maggotkin of Nurgle"
+    - "Maggotkin"
+    - "Nurgle"
     - "w40k"
     - "SMC"
     - "Tyranide"
+
 ---
 
 Bonjour à tous,

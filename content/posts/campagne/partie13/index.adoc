@@ -5,6 +5,18 @@ description: Putrescent de Nurgle & Kruleboyz VS Vils de Fielobscur & Seigneur R
 tags:
     - "aos"
     - "campagne"
+    - "Maggotkin of Nurgle"
+    - "Maggotkin"
+    - "Nurgle"
+    - "Orruk Warclans"
+    - "Orruk"
+    - "Soulblight Gravelords"
+    - "Soulblight"
+    - "Gloomspite gitz"
+    - "Atadilotho"
+    - "Xeroxjager"
+    - "Norgash"
+    - "Anto"
 ---
 
 
@@ -51,3 +63,4 @@ Eul'boss fo k'il recrute dot' troup'.
 
 Victoire majeure de l'alliance Vils de Fielobscur et  Seigneur Ruinemânes !
 
+{{< gallery >}}

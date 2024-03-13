@@ -7,11 +7,14 @@ tags:
     - "IF"
     - "SMC"
     - "DG"
-    - "Tyranid"
+    - "Tyranide"
     - "AoS"
     - "Maggotkin of Nurgle"
+    - "Maggotkin"
+    - "Nurgle"
     - "Skaven"
     - "Ogor Mawtribes"
+    - "Ogor"
 ---
 
 Bonjour à tous,

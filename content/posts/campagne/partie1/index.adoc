@@ -5,6 +5,12 @@ description: Seigneurs Ruinemânes VS Séraphon
 tags:
     - "aos"
     - "campagne"
+    - "Soulblight Gravelords"
+    - "Soulblight "
+    - "Seraphon"
+    - "Xeroxjager"
+    - "Norgash"
+
 ---
 
 
@@ -17,7 +23,9 @@ Alors que ses troupes investiguaient la jungle à proximité des pyramides sacr�
 
 Varlicha et Mordouillou étaient sortis de leur bastion maudit pour retrouver la cape de brume et d'ombre. Leurs recherches les avaient menés sur un territoire où de nombreuses ruines pyramidales étaient regroupées. Grâce à ses siècles d'existence, Varlicha savait qu'ils avaient pénétré une jungle Séraphon. La cape devait se trouver dans un de ces temples. Le pillage pouvait commencer.
 
-***
+--
+image::./20230802_205050.jpg[]
+--
 
 Les morts-vivants étaient en surnombre et surgissaient de toute part. Ek'tak-copa pensa donc que seul un assaut frontal aurait une infime chance de les arrêter avant qu'il ne soit trop tard
 Les saurus furent surpris par la célérité des simples squelettes qui couraient aussi vite que l'horrible créature qui semblait les diriger. Les kroxigors encaissèrent la charge des morts avec douleur et tombèrent sous leurs trop nombreux coups.
@@ -38,5 +46,6 @@ Lorsqu'il s'écroula, il vit des squelettes sortis de terre s'enfoncer plus prof
 Bientôt il n'entendit plus que le cri rageur de la créature maudite et les hurlements de ses chevaucheurs qui se faisaient écharper.
 Alors que sa vision se troublait, il vit les morts-vivants se ruer sur les corps de ses soldats. Ses autres sens ne lui firent parvenir que l'odeur et le goût du sang.
 --
+image::./20230802_213330.jpg[]
 
 Victoire majeure de la cour écarlate de Varlicha

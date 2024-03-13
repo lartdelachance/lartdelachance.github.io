@@ -5,8 +5,11 @@ description: premier 2v2 Aos
 tags:
     - "AoS"
     - "Skaven"
-    - "Nurgle"
+    - "Maggotkin of Nurgle"
+	- "Maggotkin"
+	- "Nurgle"
     - "Slaves to Darkness"
+    - "StD"
 ---
 
 Bonjour à tous,
