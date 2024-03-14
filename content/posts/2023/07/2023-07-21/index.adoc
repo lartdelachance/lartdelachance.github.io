@@ -4,8 +4,10 @@ date: 2023-08-01T15:15:54+02:00
 description: Quand ça veut pas mourir ... ça veut pas
 tags:
     - "AoS"
+    - "Orruk Warclans"
     - "Orruk"
-    - "Nighthaunt"
+    - "Soulblight Gravelords"
+	- "Soulblight"
     - "w40k"
     - "RK"
     - "SM"

@@ -9,9 +9,13 @@ tags:
     - "SMC"
     - "Drukhari"
     - "AoS"
+    - "Soulblight Gravelords"
     - "Soulblight"
+    - "Maggotkin of Nurgle"
     - "Maggotkin"
+    - "Nurgle"
     - "Skaven"
+    - "Beasts of chaos"
     - "BoC"
 ---
 

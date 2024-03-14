@@ -4,9 +4,14 @@ date: 2023-11-14T22:35:49+01:00
 description: Partie du 29 sept. 2023
 tags:
     - "aos"
-    - "Boc"
+    - "Beasts of chaos"
+    - "BoC"
     - "Maggotkin of Nurgle"
-    - "Std"
+    - "Maggotkin"
+    - "Nurgle"
+    - "Slaves to Darkness"
+    - "StD"
+    - "Disciples of Tzeentch"
     - "DoT"
 ---
 

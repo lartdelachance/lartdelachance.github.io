@@ -4,7 +4,9 @@ date: 2022-10-14T09:52:49+02:00
 description: Première partie AoS de l'asso
 tags:
     - "AoS"
+    - "Stormcast Eternals"
     - "Stormcast"
+    - "Soulblight Gravelords"
     - "Soulblight"
     - "w40k"
     - "SMC"

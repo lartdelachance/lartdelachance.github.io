@@ -7,6 +7,7 @@ tags:
     - "AdMech"
     - "DG"
     - "SMC"
+    - "Craftworld"
     - "Aeldari"
 ---
 

@@ -4,7 +4,12 @@ date: 2024-02-08T08:22:01+01:00
 description: Partie du 1 déc. 2023
 tags:
     - "w40k"
+    - "DG"
+    - "DA"
     - "AoS"
+    - "Blades of Khorne"
+    - "BoK"
+    - "Sylvaneth"
 ---
 
 Bonjour à tous,

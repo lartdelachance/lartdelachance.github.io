@@ -1,0 +1,40 @@
+---
+title: "Campagne Présages - Chapitre 2"
+summary: "Campagne Présages - Chapitre 2 - L'arrivée des émissaires"
+date: 2024-03-13T23:55:20+02:00
+weight: 1
+tags:
+    - "aos"
+    - "campagne"
+    - "chapitre2"
+---
+
+[.campagne]
+--
+Alors que les premières lueurs du crépuscule teintaient le ciel d'une palette ardente, des silhouettes apparurent à l'horizon. Les émissaires des grandes alliances étaient enfin arrivés, annonçant une nouvelle phase dans cette guerre grandissante. Des murmures se propagèrent parmi les troupes rassemblées, chacun se demandant ce que ces envoyés apporteraient à la table du conflit.
+
+Cependant, leurs nouvelles ne portaient pas uniquement sur les alliances et les renforts. Une maladie, connue sous le nom de Tremblotte, s'était répandue comme une ombre insidieuse à travers les royaumes mortels. Elle laissait dans son sillage des villages entiers de mortels désespérés, tremblant de fièvre et de peur. Les émissaires apportaient avec eux des appels à l'aide, cherchant des alliés pour combattre cette nouvelle menace tout autant que les ennemis traditionnels.
+
+Chaque armée se vit offrir une chance unique de consolider sa position, de gagner de nouveaux amis ou, pour les plus audacieux, de tendre la main à des ennemis passés dans l'espoir d'une trêve temporaire. Les champs de bataille allaient s'enflammer à nouveau, chaque général cherchant à prouver sa valeur et à gagner le soutien des émissaires.
+
+Mais alors que les allégeances sont reformées et que les stratégies sont établies, les trajectoires qui se dessinent sur les cartes des généraux semblent avoir une destination commune. Une ville fortifiée, sise entre plusieurs royaumes mortels : Thorishavn, la ville située entre les royaumes, devient de plus en plus le centre d'attention, suscitant l'intérêt et la convoitise de toutes les forces en présence.
+
+Préparez-vous, généraux, car la guerre pour Thorishavn ne fait que commencer. Avec l'arrivée des émissaires et la menace croissante de la Tremblotte, tout peut changer...
+--
+Pendant ce second chapitre nous voyons arriver de nouveaux belligérants comme la Hordegivre de Fimbulvetr et la Clairière d'Héllébore menées par Azelgriff !
+Plusieurs batailles ont pu êtres disputés pendant cette seconde période : 
+
+* link:../posts/campagne/partie14[Skaven VS Kruleboyz VS Esclaves des ténèbres]
+* link:../posts/campagne/partie15[Lames de Khorne VS Kruleboyz]
+* link:../posts/campagne/partie16[Skaven VS Putrescent de Nurgle VS Hordegueules Ogors]
+* link:../posts/campagne/partie17[HordeGueule Ogor VS Vils de Fielsobscur]
+* link:../posts/campagne/partie18[Esclaves des Ténèbres VS Kruleboyz]
+* link:../posts/campagne/partie19[Sylvaneth VS Lames de Khorne]
+* link:../posts/campagne/partie20[Seigneur Ruinemânes & Hantenuit VS Putrescent de Nurgle & Lames de Khorne]
+* link:../posts/campagne/partie21[Hordegueules Ogor VS Putrescent de Nurgle]
+
+Ajoutons quelques graphiques pour conclure ce premier chapitre : 
+image::img/chapitre2/Points_de_Gloires_gagnes_par_armee.png[]
+image::img/chapitre2/Repartition_des_joueurs_par_Grande_Alliance_2.png[]
+
+Vous retrouvez les parties link:/tags/campagne/[avec une recherche par tags]

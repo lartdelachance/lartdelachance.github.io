@@ -5,6 +5,7 @@ description: Buveurs de sang squelettiques vs ceux qui n'ont pas de corps.
 tags:
     - "AoS"
     - "Nighthaunt"
+    - "Soulblight Gravelords"
     - "Soulblight"
 ---
 

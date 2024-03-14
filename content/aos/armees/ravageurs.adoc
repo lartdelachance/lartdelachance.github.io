@@ -5,8 +5,11 @@ date: 2023-06-01T00:00:01
 tags:
     - "aos"
     - "campagne"
+    - "Blades of Khorne"
+    - "BoK"
+    - "Swiki"
 ---
-
+--
 A l’apogée du chaos, la légion des seigneurs de sang passèrent l'intégralité des douze clans Orruks au fil de leur épée en Ghur. Ils restèrent dans le Royaume des Bêtes pendant des siècles à traquer les plus redoutables prédateurs de ces terres sauvages en entassant des crânes gigantesque au nom de Khorne.
 
 Khorne fut grandement satisfait de ces offrandes. La légion gagna en influence et le seigneur de guerre Al’Gokaz se vit offrir l’un des plus puissant Artefact du dieu du sang : Le halo de Sang.
@@ -14,3 +17,4 @@ Khorne fut grandement satisfait de ces offrandes. La légion gagna en influence 
 Mais le seigneur Buveur de sang sait que les faveurs de Khorne peuvent être promptement perdues, et que chaque succès de ses troupes augmente les attentes du dieu de sang à leur égard.
 
 Les rumeurs parlent de nouvelles croisades dans les royaumes mortels et qu’une épidémie de tremblotte se répandait. Al’Gokaz et ses troupes se mirent en marche, quelle meilleure occasion pour offrir encore plus de crânes prestigieux au trône de crânes ?
+--

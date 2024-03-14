@@ -4,7 +4,18 @@ date: 2024-02-08T08:15:49+01:00
 description: Partie du 15 nov. 2023
 tags:
     - "w40k"
+    - "DA"
+    - "GK"
     - "AoS"
+    - "Nighthaunt"
+    - "Blade of Khorne"
+    - "BoK"
+    - "Seraphon"
+    - "Ossiarch Bonereapers"
+    - "Ossiarch"
+    - "Maggotkin of Nurgle"
+    - "Maggotkin"
+    - "Nurgle"
 ---
 
 Bonjour à tous,

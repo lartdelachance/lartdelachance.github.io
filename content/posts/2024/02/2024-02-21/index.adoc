@@ -5,7 +5,16 @@ description: Partie du 21 févr. 2024
 tags:
     - "w40k"
     - "Aos"
+    - "Slaves to Darkness"
+	- "StD"
+    - "Orruk Warclans"
+	- "Orruk"
+    - "Blades of Khorne"
+	- "BoK"
+    - "Sylvaneth"
     - "KillTeam"
+    - "DG"
+    - "SM"
 ---
 
 Bonjour à tous,

@@ -5,6 +5,8 @@ date: 2023-06-01T00:00:01
 tags:
     - "aos"
     - "campagne"
+    - "seraphon"
+    - "Xeroxjager"
 ---
 
 Ek'tak-copa, l'ardent défenseur des pyramides ancestrales de Quetzl, se vit confier la tête d'une cohorte pour protéger les sites sacrés des Séraphons en Ghur.

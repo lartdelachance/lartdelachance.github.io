@@ -5,7 +5,11 @@ date: 2023-06-01T00:00:01
 tags:
     - "aos"
     - "campagne"
+    - "Soulblight Gravelords"
+    - "Soulblight"
+    - "Norgash"
 ---
+--
 Au cours des siècles passés à la cour de Nulahmia, l’aristocratie vampirique se disputait les faveurs  de Neferata qui régnait d’une main de fer sur ses terres. Faisant preuve d’un zèle sans pareil, Varcha,  une des plus ferventes disciples de Neferata, œuvrait sans relâche pour le prestige de sa lignée.  Via les relais portails, elle se lança dans une campagne de raids sanglant dans les tous royaumes  mortels. De nombreuses âmes se joignirent malgré elles dans la danse écarlate, honorées par la  morsure maudite de leur nouvelle maîtresse.
 
 Plusieurs vampires aguerris suivirent Varcha dans sa quête de gloire en sus des jeunes recrues nouvellement convertis. La bande devint une meute de plus en plus assoiffée se moquant des avertissements de leur congénères. Les attaques se firent plus fréquentes et plus violentes, ressemblant  plus à un massacre qu’à une réelle stratégie pour étendre l’influence de la lignée. Si bien qu’en haut  lieu, Neferata en personne, mit en garde Varcha sur les risques de laisser la fureur sanguinaire se  déchaîner.
@@ -16,3 +20,4 @@ Sauf lui, sombre esprit dans un corps putrescent...
 Lui, le plus sombre, le plus grand, le plus beau, le plus mort de tous les dieux, le grand, le magnifique : NAGASH !
 Toujours dans un but intéressé opérait le Dieu nécromant. C’est ainsi qu’il stoppa la transformation  de Varcha, maintenant chimère, mi-vampire mi-monstre aujourd’hui renommée Varlicha par son  maître tout puissant.
 Désormais au service du seigneur suprême de la Mort, elle eut pour tâche de parcourir les royaumes mortels  sans dévoiler ouvertement sa présence et de trouver la source de l’étrange maladie affectant même  les créatures mort-vivantes.
+--

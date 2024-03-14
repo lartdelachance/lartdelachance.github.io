@@ -4,7 +4,14 @@ date: 2024-02-22T10:12:38+01:00
 description: Partie du 16 févr. 2024
 tags:
     - "w40k"
+    - "Thousand Sons"
+    - "DA"
     - "AoS"
+    - "Maggotkin of Nurgle"
+	- "Maggotkin"
+	- "Nurgle"
+    - "Ogor Mawtribe"
+	- "Ogor"
 ---
 
 Bonjour à tous,

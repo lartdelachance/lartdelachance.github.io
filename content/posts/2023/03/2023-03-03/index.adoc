@@ -5,7 +5,9 @@ description: La guerre !!!
 tags:
     - "w40k"
     - "AoS"
+    - "Beasts of chaos"
     - "BoC"
+    - "Soulblight Gravelords"
     - "Soulblight"
     - "SMC"
     - "DG"

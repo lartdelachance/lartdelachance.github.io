@@ -3,11 +3,15 @@ title: "Partie du 13 oct. 2023"
 date: 2023-11-14T22:39:42+01:00
 description: Partie du 13 oct. 2023
 tags:
-    - "w40k"
+    - "aos"
     - "Maggotkin of Nurgle"
+    - "Maggotkin"
+    - "Nurgle"
     - "Orruk Warclans"
+    - "Orruk"
     - "Gloomspite Gitz"
     - "Soulblight Gravelords"
+    - "Soulblight"
 ---
 
 Bonjour à tous,

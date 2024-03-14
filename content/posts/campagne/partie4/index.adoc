@@ -3,8 +3,16 @@ title: "Campagne - Partie 4"
 date: 2023-08-25T23:55:20+02:00
 description: Bête du Chaos VS Putrescent de Nurgle VS Skaven
 tags:
-    - "aos"
-    - "campagne"
+    - "Aos"
+    - "Maggotkin of Nurgle"
+    - "Maggotkin"
+    - "Nurgle"
+    - "Beasts of chaos"
+    - "BoC"
+    - "Skaven"
+    - "Ersokili"
+    - "Xeroxjager"
+    - "Atadilotho"
 ---
 
 [.campagne]
@@ -31,3 +39,5 @@ Les bestigors tombés au combat furent cette fois éveillés par le toucher de M
 --
 
 Victoire majeure des Bêtes du chaos !
+
+{{< gallery >}}

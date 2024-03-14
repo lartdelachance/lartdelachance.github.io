@@ -6,8 +6,8 @@ tags:
     - "w40k"
     - "SMC"
     - "Nécron"
-    - "Ork"
-    - "UM"
+    - "Ork"y
+	- "UM"
 ---
 
 Bonjour à tous,

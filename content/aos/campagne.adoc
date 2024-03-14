@@ -26,18 +26,44 @@ Seul Azyr reste inébranlable et silencieux.
 
 Les seigneurs de guerre fourbissent leurs armes et préparent leurs osts à la bataille. Une nouvelle ère de conquête débute.
 --
+image::/aos/img/campagneIntro.webp[width="128", height="71", align="center"]
 
 C'est ainsi que commence notre campagne AoS.
 
-Les armées :
+Les armées de la grande alliance de l'Ordre : 
 
-* link:/aos/armees/quetzl[Les Gardiens de Quetzl]
-* link:/aos/armees/varlicha[La Cour écarlate de Varlicha]
-* link:/aos/armees/morghur[Les Profanateurs de Morghur]
-* link:/aos/armees/horde-rouge[La Horde Rouge]
-* link:/aos/armees/fetide[La Chaire Fétide]
-* link:/aos/armees/meute[La Meute du Galeux]
-* link:/aos/armees/feu-maudit[Les Étudiants du Feu maudit]
-* link:/aos/armees/ravageurs[Les ravageurs pourpres]
+* link:/aos/armees/quetzl[Les Gardiens de Quetzl] de Xeroxjager
+* L'armée d'Eternels de l'Orage d'Anto
+* link:/aos/armees/hellebore[La Clairière de l'Héllébore] de AzelGriff
+
+Les armées de la grande alliance de la Mort : 
+
+* link:/aos/armees/varlicha[La Cour écarlate de Varlicha] de Norgash
+* L'armée de Collecteurs Ossiarques de Xeroxjager
+* La Garde Cramoisie de TragHigmountain
+
+Les armées de la grande alliance du Chaos : 
+
+* L'armée Skaven de Oursenmousse
+* link:/aos/armees/meute[La Meute du Galeux] de Ersokili
+* link:/aos/armees/conclave[Le conclave de la peste] de Ersokili
+* link:/aos/armees/fetide[La Chaire Fétide] de AtadiloTho
+* L'armée de Putrescents de Nurgle de TragHigmountain
+* link:/aos/armees/ravageurs[Les ravageurs pourpres] de Swiki
+* link:/aos/armees/horde-rouge[La Horde Rouge] de OursBourru
+* link:/aos/armees/morghur[Les Profanateurs de Morghur] de Xeroxjager
+* link:/aos/armees/feu-maudit[Les Étudiants du Feu maudit] de TragHigmountain
+* link:/aos/armees/eternus[Les Porteurs d'Entropie] de Norgash
+* link:/aos/armees/arcanite[Le Culte de la Mutation Arcanite] de Xeroxjager
+
+Les armées de la grande alliance de la Destruction : 
+
+* L'armée de Vils du Fielobscur d'Anto
+* link:/aos/armees/ruze[Lé Méga Ruzé] de Xeroxjager
+* link:/aos/armees/fimbulvetr[La Hordegivre Fimbulvetr] de AzelGriff
+
+Retrouvez les différents chapitre de notre campagne narrative : 
+* link:/aos/campagne_chapitre1[La Tremblotte émerge]
+* link:/aos/campagne_chapitre2[L'arrivée des émissaires]
 
 Vous retrouvez les parties link:/tags/campagne/[avec une recherche par tags]

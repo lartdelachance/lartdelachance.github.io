@@ -1,0 +1,34 @@
+---
+title: "Campagne - Partie 14"
+date: 2023-10-20T23:55:20+02:00
+description: Skaven VS Kruleboyz VS Esclaves des ténèbres
+tags:
+    - "aos"
+    - "campagne"
+    - "Skaven"
+    - "Orruk Warclans"
+    - "Orruk"
+    - "Slaves to Darkness"
+    - "StD"
+    - "Ersokili"
+    - "Xeroxjager"
+    - "Traghigmountain"
+---
+
+
+[.campagne]
+--
+Sur les terres dévastées des Royaumes Mortels, une bataille furieuse fit rage, opposant les hordes malfaisantes des Skavens, des Guerriers du Chaos et des Orruks Kruleboyz. La lutte pour le pouvoir et la domination était à son apogée, chaque faction cherchant à prendre le contrôle de points stratégiques cruciaux sur le champ de bataille.
+Throt le Galleux, maître des expériences monstrueuses et seigneur incontesté des Skavens, mena sa horde rongeante avec une soif insatiable de destruction. En face de lui se trouvait Vastana Cendrelangue, une guerrière impitoyable des forces du Chaos, armée de lames acérées et de la fureur des dieux sombres. À leurs côtés, Grokmor le Sournois, un meneur rusé des Orruks Kruleboyz, dirigeait ses troupes sauvages avec une brutalité impitoyable.
+Le champ de bataille était parsemé d'objectifs, et chaque seigneur de guerre savait que la clé de la victoire résidait dans leur contrôle. Les armées s'élancèrent, hurlant des cris de guerre et se précipitant vers la confrontation.
+Au cœur de la mêlée, l'Idole de Pierre des Orruks se dressa comme un titan, écrasant tout sur son passage. Avec une force inouïe, elle abattit à la fois l'Abomination Skaven et les redoutables Stormfiends, semant la terreur et la désolation dans les rangs ennemis.
+Pendant ce temps, Vastana Cendrelangue, brûlante de rage, chargea avec ses guerriers impitoyables droit sur Grokmor le Sournois et ses Hobgobelins. Le combat fut brutal et sans merci, mais finalement, le général Orruk, avec une ruse et une brutalité caractéristiques de son espèce, réussit à abattre la fière guerrière du Chaos.
+Les Varanguard, témoins de la chute de leur générale, furent consumés par une soif de vengeance. Ils se ruèrent avec une fureur implacable sur Grokmor, le frappant de leurs lames impitoyables jusqu'à ce qu'il tombe, vaincu.
+Pendant ce temps, Throt le Galleux se retrouva sous le feu croisé des arbalétriers Orruks. Malgré sa ruse et sa cruauté, le seigneur Skaven fut submergé et tomba sous une pluie mortelle de projectiles.
+Alors que la poussière de la bataille retombait, les Skavens et les Guerriers du Chaos étaient à égalité, chacun ayant réussi à sécuriser une partie des objectifs. 
+
+--
+
+Égalité pour les Skavens et les Esclaves des Ténèbres !
+
+{{< gallery >}}

@@ -1,13 +1,18 @@
 ---
 title: "Campagne - Partie 5"
-date: 2023-08-31T23:55:20+02:00
+date: 2023-08-30T23:55:20+02:00
 description: Putrescent de Nurgle VS Seigneurs Ruinemânes
 tags:
     - "aos"
     - "campagne"
+    - "Maggotkin of Nurgle"
+    - "Maggotkin"
+    - "Nurgle"
+    - "Soulblight Gravelords"
+    - "Soulblight"
+    - "Atadilotho"
+    - "Norgash"
 ---
-
-image::./IMG_20230901_230732.webP[width=50%]
 
 [.campagne]
 --
@@ -22,12 +27,15 @@ Sur notre chemin, il nous faudra traverser une ancienne arène de combat, ou un 
 Le sol était déjà contaminé ... non pas par les bienfaits de Nurgle, mais par de vils non-morts.
 
 Trop confiant, nous nous sommes lancés dans la bataille et très rapidement les Pesticrates Putrides ont été écrasés, et le brave Gutrot Spume aussi.
-
+--
+image::./IMG_20230830_213046.webP[]
+--
 Anapox le Répugnant et sa garde de PortePestes ont résisté autant qu'une mouche que l'on écrase sur un pustule. Deux Bêtes de Nurgle ont été invoquées, la première pour essayer de retenir une horde de squelettes, là aussi sans succès, et la seconde pour se jeter sur la recherche de l'artefact.
 
 Kankeros sur sa mouche de la Peste a un peu déambulé sans se trouver une utilité. La chimère Varcha le cloua au sol.
 
 Dans la douleur, l'artefact a été trouvé, mais a quel prix, seul les Nurgling et une bête invoqué ont survécu car ignoré par les ennemies.
 --
+image::./IMG20230830221820.webP[]
 
 Victoire majeure des Seigneur Ruinemânes !

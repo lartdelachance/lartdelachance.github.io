@@ -8,8 +8,8 @@ tags:
     - "DA"
     - "Ork"
     - "DG"
-    - "BT"
-    - "UM"
+	- "UM"
+	- "BT"
 ---
 
 Bonjour à tous,

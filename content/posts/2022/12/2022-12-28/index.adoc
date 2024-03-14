@@ -5,6 +5,7 @@ description: Petit format 1000pts
 tags:
     - "w40k"
     - "Craftworld"
+    - "Aeldari"
     - "SMC"
 ---
 

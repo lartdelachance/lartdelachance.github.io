@@ -4,10 +4,10 @@ date: 2022-05-18T23:38:17+02:00
 description: Des parties à 1111pts
 tags:
     - "w40k"
-    - "Tau"
-    - "DG"
     - "SMC"
+	- "Tau"
     - "DA"
+    - "DG"
 ---
 
 Ce soir, les Tau ont affronté et vaincu la Death Guard, malgré la présence de Mortarion.

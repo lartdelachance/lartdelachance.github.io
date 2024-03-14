@@ -16,13 +16,13 @@ Les BattleTome représentés à l'association :
 [%header,format=csv,separator=";",cols="3,5,1"]
 |====
 BattleTome ;Version ;Dispo à l'asso
-Cities of Sigmar; v2; icon:ban[]
+Cities of Sigmar; v3; icon:check[]
 Daughters of Khaine; v3; icon:ban[]
 Fyreslayers; v3; icon:check[]
 Idoneth Deepkin; v3; icon:ban[]
 Kharadron Overlords; v3; icon:ban[]
 Lumineth Realm-lords; v3; icon:ban[]
-Seraphon; v2; icon:ban[]
+Seraphon; v2; icon:check[]
 Stormcast Eternals; v3; icon:check[]
 Sylvaneth; v3; icon:check[]
 |====
@@ -35,8 +35,8 @@ Sylvaneth; v3; icon:check[]
 |====
 BattleTome ;Version ;Dispo à l'asso
 Beasts of Chaos; v3; icon:check[]
-Blades of Khorne; v3; icon:ban[]
-Disciples of Tzeentch; v3; icon:ban[]
+Blades of Khorne; v3; icon:check[]
+Disciples of Tzeentch; v3; icon:check[]
 Hedonites of Slaanesh; v3; icon:ban[]
 Maggotkin of Nurgle; v3; icon:check[]
 Skaven; v3; icon:check[]
@@ -50,7 +50,7 @@ Slaves to Darkness; v3; icon:check[]
 [%header,format=csv,separator=";",cols="3,5,1"]
 |====
 BattleTome ;Version ;Dispo à l'asso
-Flesh-eater Courts; v2; icon:ban[]
+Flesh-eater Courts; v3; icon:check[]
 Soulblight; v3; icon:check[]
 Nighthaunt; v3; icon:check[]
 Ossiarch Bonereapers; v3; icon:check[]
@@ -64,7 +64,7 @@ Ossiarch Bonereapers; v3; icon:check[]
 |====
 BattleTome ;Version ;Dispo à l'asso
 Gloomspite Gitz; v3; icon:check[]
-Ogor Mawtribes; v3; icon:ban[]
-Orruk Warclans; v3; icon:ban[]
-Sons of Behemat; v3; icon:ban[]
+Ogor Mawtribes; v3; icon:check[]
+Orruk Warclans; v3; icon:check[]
+Sons of Behemat; v3; icon:check[]
 |====

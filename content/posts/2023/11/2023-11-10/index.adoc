@@ -6,6 +6,10 @@ tags:
     - "w40k"
     - "IF"
     - "DG"
+    - "AOS"
+    - "Gloomspite gitz"
+    - "Ogor Mawtribe"
+    - "Ogor"
 ---
 
 Bonjour à tous,

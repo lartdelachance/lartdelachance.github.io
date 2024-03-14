@@ -4,7 +4,14 @@ date: 2024-02-08T08:19:35+01:00
 description: Partie du 29 nov. 2023
 tags:
     - "w40k"
+    - "DA"
+    - "SM"
     - "Aos"
+    - "Maggotkin of Nurgle"
+    - "Maggotkin"
+    - "Nurgle"
+    - "Disciples of Tzeentch"
+    - "DoT"
 ---
 
 Bonjour à tous,

@@ -6,6 +6,7 @@ tags:
     - "w40k"
     - "SMC"
     - "Craftworld"
+    - "Aeldari"
     - "IF"
     - "UM"
 ---

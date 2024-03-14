@@ -5,7 +5,14 @@ description: Skaven VS Lames de Khorne VS Esclaves des Ténèbres
 tags:
     - "aos"
     - "campagne"
-draft: true
+    - "Skaven"
+    - "Blades of Khorne"
+    - "BoK"
+    - "Slaves to Darkness"
+    - "StD"
+    - "Ersokili"
+    - "Oursbourru"
+    - "Traghigmountain"
 ---
 
 [.campagne]
@@ -31,10 +38,27 @@ La confrontation entre les force du Rat cornus et celle du Dieu du Sang était i
 ***
 
 Vorak vit ses soldats encaisser sans broncher les tirs des Rats ogres puis leur charge accompagnés des rats plus petits. Le combat fut d'une extrême violence, les Guerriers de sang se laissant aller à leur sauvagerie débridée sans se protéger. Beaucoup d'entre eux tombèrent à la gloire de Khorne.
-Lorsque
 
-Tour 2 : Skaven et Khorne se rentrent dedans. La totalité des guerriers de "base" de khorne et skaven est détruite mais les renforts des différentes armée arrivent
-Tour 3 : L'affrontement entre Khorne et Skaven continue, les S2D se rapprochent. Les guerriers du chaos chargent les rats ogres, le maître moulder et l'abomination skaven.
-Tour 4 : la varanguard traverse magiquement le champ de bataille et tue le seigneur skaven qui tentait de s'enfuir. Le Seigneur du chaos tue le Korgorath et le seigneur de Khorne. Les massacreurs de khorne se rapprochent du monolithe.
-Il ne reste plus que quelques rats géants, l'abomination, les furies, un porte bannière de khorne et les massacreurs qui restent en vie à la fin de cet affrontement.
+***
+
+L'affrontement entre les rats et les guerriers de Khorne faisait rage, l'abomination skaven fonçait dans les rangs des guerriers en armure rouge, les écrasant de tout son poids. 
+Vastana encouragea ses étudiants à se joindre au massacre. Ces derniers chargèrent. 
+Les hommes rats qui excitaient les rats-ogres se firent piétiner mais les étudiants de Vastana ne firent pas long feu face à la monstruosité de chair créé par Throt.
+
+***
+
+Throt vit les trois cavaliers sur leurs montures démoniaques traverser le champ de bataille dans sa direction à une vitesse surnaturelle. Il n'eut pas le temps de lever ses armes que déjà il tombait inconscient.
+
+***
+
+Enfin arrivée dans le corps à corps, Vastana fit s'enflammer son arme déjà enduite de poison de manticore afin de terrasser l'énorme Korgorath qui s'approchait. 
+Le seigneur de Khorne tenta de la contourner mais elle fut si vive qu'elle mit à terre son ennemi. 
+Elle ne vit malheureusement que trop tard la masse énorme de la monstruosité skaven lui tomber dessus.
+
+***
+Les trois massacreurs virent les rats géants et les quelques créatures chaotiques restantes s'envoler. Le monolithe était à eux après cette sanglante mêlée.
+
 --
+Victoire majeure des Lames de Khorne !
+
+{{< gallery >}}

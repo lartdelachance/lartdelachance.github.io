@@ -8,8 +8,11 @@ tags:
     - "SMC"
     - "Tau"
     - "Aos"
-    - "Beast of Chaos"
-    - "Nurgle"
+    - "Beasts of chaos"
+    - "BoC"
+    - "Maggotkin of Nurgle"
+	- "Maggotkin"
+	- "Nurgle"
 ---
 
 Bonjour à tous,

@@ -5,6 +5,11 @@ description: Esclaves des ténèbres VS Hantenuit
 tags:
     - "aos"
     - "campagne"
+    - "Nighthaunt"
+    - "Slaves to Darkness"
+    - "StD"
+    - "Traghigmountain"
+    - "Norgash"
 ---
 
 
@@ -29,3 +34,5 @@ Gharest Malcor le Félon, bien qu'il n'ait pas remporté une victoire totale, a 
 --
 
 Egalité !
+
+{{< gallery >}}
