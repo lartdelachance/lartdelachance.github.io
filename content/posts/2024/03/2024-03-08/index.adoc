@@ -1,0 +1,17 @@
+---
+title: "Partie du 8 mars 2024"
+date: 2024-03-14T10:01:03+01:00
+description: Préparation FWD et dons de maladie
+tags:
+    - "AoS"
+    - "Maggotkin of Nurgle"
+    - "Maggotkin"
+    - "Stormcast Eternals"
+    - "Stormcast"
+    - "Blades of Khorne"
+    - "BoK"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}
