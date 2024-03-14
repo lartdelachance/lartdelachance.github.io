@@ -30,19 +30,19 @@ image::/aos/img/campagneIntro.webp[width="128", height="71", align="center"]
 
 C'est ainsi que commence notre campagne AoS.
 
-Les armées de la grande alliance de l'Ordre : 
+Les armées de la grande alliance de l'Ordre :
 
 * link:/aos/armees/quetzl[Les Gardiens de Quetzl] de Xeroxjager
 * L'armée d'Eternels de l'Orage d'Anto
 * link:/aos/armees/hellebore[La Clairière de l'Héllébore] de AzelGriff
 
-Les armées de la grande alliance de la Mort : 
+Les armées de la grande alliance de la Mort :
 
 * link:/aos/armees/varlicha[La Cour écarlate de Varlicha] de Norgash
 * L'armée de Collecteurs Ossiarques de Xeroxjager
 * La Garde Cramoisie de TragHigmountain
 
-Les armées de la grande alliance du Chaos : 
+Les armées de la grande alliance du Chaos :
 
 * L'armée Skaven de Oursenmousse
 * link:/aos/armees/meute[La Meute du Galeux] de Ersokili
@@ -56,13 +56,13 @@ Les armées de la grande alliance du Chaos :
 * link:/aos/armees/eternus[Les Porteurs d'Entropie] de Norgash
 * link:/aos/armees/arcanite[Le Culte de la Mutation Arcanite] de Xeroxjager
 
-Les armées de la grande alliance de la Destruction : 
+Les armées de la grande alliance de la Destruction :
 
 * L'armée de Vils du Fielobscur d'Anto
 * link:/aos/armees/ruze[Lé Méga Ruzé] de Xeroxjager
 * link:/aos/armees/fimbulvetr[La Hordegivre Fimbulvetr] de AzelGriff
 
-Retrouvez les différents chapitre de notre campagne narrative : 
+Retrouvez les différents chapitre de notre campagne narrative :
 * link:/aos/campagne_chapitre1[La Tremblotte émerge]
 * link:/aos/campagne_chapitre2[L'arrivée des émissaires]
 

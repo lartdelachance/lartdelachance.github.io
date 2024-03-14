@@ -8,8 +8,8 @@ tags:
     - "AdMech"
     - "Aos"
     - "Maggotkin of Nurgle"
-	- "Maggotkin"
-	- "Nurgle"
+    - "Maggotkin"
+    - "Nurgle"
     - "Sylvaneth"
 ---
 

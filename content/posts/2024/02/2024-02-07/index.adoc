@@ -12,10 +12,10 @@ tags:
     - "AoS"
     - "Sylvaneth"
     - "Slaves to Darkness"
-	- "StD"
+    - "StD"
     - "Lumineth"
     - "Stormcast Eternals"
-	- "Stormcast"
+    - "Stormcast"
 ---
 
 Bonjour à tous,

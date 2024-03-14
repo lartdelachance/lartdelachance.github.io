@@ -8,10 +8,10 @@ tags:
     - "GK"
     - "AoS"
     - "Blades of Khorne"
-	- "BoK"
+    - "BoK"
     - "Maggotkin of Nurgle"
-	- "Maggotkin"
-	- "Nurgle"
+    - "Maggotkin"
+    - "Nurgle"
 ---
 
 Bonjour à tous,

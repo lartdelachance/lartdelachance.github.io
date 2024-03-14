@@ -8,12 +8,12 @@ tags:
     - "Thousand Sons"
     - "AoS"
     - "Slaves to Darkness"
-	- "StD"
+    - "StD"
     - "Gloomspite Gitz"
     - "Stormcast Eternals"
-	- "Stormcast"
+    - "Stormcast"
     - "Blades of Khorne"
-	- "BoK"
+    - "BoK"
 ---
 
 Bonjour à tous,

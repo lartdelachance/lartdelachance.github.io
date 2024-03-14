@@ -5,7 +5,7 @@ description: Des parties à 1111pts
 tags:
     - "w40k"
     - "SMC"
-	- "Tau"
+    - "Tau"
     - "DA"
     - "DG"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Campagne - Partie 21"
 date: 2024-02-16T23:55:20+02:00
-description: Hordegueules Ogor VS Putrescent de Nurgle 
+description: Hordegueules Ogor VS Putrescent de Nurgle
+tags:
     - "aos"
     - "campagne"
     - "Ogor Mawtribe"
@@ -18,17 +19,17 @@ description: Hordegueules Ogor VS Putrescent de Nurgle
 [.campagne]
 --
 Les Royaumes Mortels sont sillonnés par des lignes telluriques qui vibrent d'énergie arcanique.
-Là où ces courants magiques se croisent, de puissants liens de pouvoir se forment. 
+Là où ces courants magiques se croisent, de puissants liens de pouvoir se forment.
 Des sites saturés de magie, où des exploits thaumaturgiques infaisables ailleurs deviennent tout à fait possibles.
 
-Depuis le début des Croisades Dawnbringer, ces liens sont devenus de plus en plus convoités; 
+Depuis le début des Croisades Dawnbringer, ces liens sont devenus de plus en plus convoités;
 c'est sur de tels sites que sont érigés les nouveaux points forts Sigmarites, leurs défenses étant alimentées par les confluences mystiques.
 Un lien jusqu'alors inconnu a été découvert et la nouvelle de son existence a été portée à l'attention du chef de guerre le plus puissant de la région.
 
-Revendiquer un tel emplacement pourrait modifier radicalement l'équilibre des pouvoirs; 
+Revendiquer un tel emplacement pourrait modifier radicalement l'équilibre des pouvoirs;
 cependant, toute bataille menée autour d'une telle source d'énergie ésotérique sera certainement destructrice à l'extrême…
 
-Anapox le Répugnant décide d'aller revendiquer un de ces lieux. 
+Anapox le Répugnant décide d'aller revendiquer un de ces lieux.
 Le plus proche est dans une zone inhospitalière pour Nurgle, ses Gueule Noueuse Immonde ne poussent pas.
 Il n'y a pas de terrain clair ni pour lui, ni pour les Ogors qui étaient également intéressé par ce site.
 Et sans terrain a cultiver, pas de possibilité d'invocations de démons en renfort.

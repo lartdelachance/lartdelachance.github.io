@@ -16,9 +16,9 @@ tags:
     - "DoK"
     - "Skaven"
     - "Disciples of Tzeentch"
-	- "DoT"
+    - "DoT"
     - "Slaves to Darkness"
-	- "StD"
+    - "StD"
 ---
 
 Bonjour à tous,

@@ -22,7 +22,7 @@ Dans les ruines des champs de bataille, parmi les débris et les reliques des â
 Ainsi, à travers le fer et le feu, les armées des joueurs se sont renforcées, devenant des forces avec lesquelles il fallait compter. Chaque nouvelle unité, chaque nouveau pouvoir et chaque nouvel artefact acquis dans le sillage des batailles était un témoignage de leur détermination et de leur habileté. L'histoire des Royaumes Mortels est tissée de ces conquêtes et de ces découvertes, et les récits de ces héros continueront à inspirer tant que les étoiles brilleront dans le ciel nocturne.
 --
 
-De nombreuses batailles se sont déroulées pendant cette première période de campagne : 
+De nombreuses batailles se sont déroulées pendant cette première période de campagne :
 
 * link:../posts/campagne/partie1[Seigneurs Ruinemânes VS Séraphon]
 * link:../posts/campagne/partie2[Bêtes du Chaos VS Putrescent de Nurgle]
@@ -38,7 +38,7 @@ De nombreuses batailles se sont déroulées pendant cette première période de 
 * link:../posts/campagne/partie12[Putrescent de Nurgle VS Seigneurs Ruinemânes]
 * link:../posts/campagne/partie13[Putrescent de Nurgle & Kruleboyz VS Vils de Fielobscur & Seigneur Ruinemânes]
 
-Ajoutons quelques graphiques pour conclure ce premier chapitre : 
+Ajoutons quelques graphiques pour conclure ce premier chapitre :
 image::img/chapitre1/Points_de_Gloires_gagnes_par_armee.webp[]
 image::img/chapitre1/Repartition_des_joueurs_par_Grande_Alliance_1.webp[]
 

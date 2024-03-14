@@ -8,10 +8,10 @@ tags:
     - "Drukhari"
     - "AoS"
     - "Maggotkin of Nurgle"
-	- "Maggotkin"
-	- "Nurgle"
+    - "Maggotkin"
+    - "Nurgle"
     - "Orruk Warclans"
-	- "Orruk"
+    - "Orruk"
 ---
 
 Bonjour à tous,

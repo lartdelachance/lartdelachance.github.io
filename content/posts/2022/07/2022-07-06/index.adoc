@@ -4,10 +4,10 @@ date: 2022-07-06T14:19:48+02:00
 description: Un nouveau joueur avec des Imperial Fist
 tags:
     - "w40k"
-	- "CK"
+    - "CK"
     - "DA"
-	- "IF"
-	- "UM"
+    - "IF"
+    - "UM"
 ---
 
 Bonjour à tous,
