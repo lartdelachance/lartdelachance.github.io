@@ -7,7 +7,7 @@ tags:
     - "Orruk Warclans"
     - "Orruk"
     - "Soulblight Gravelords"
-	- "Soulblight"
+    - "Soulblight"
     - "w40k"
     - "RK"
     - "SM"

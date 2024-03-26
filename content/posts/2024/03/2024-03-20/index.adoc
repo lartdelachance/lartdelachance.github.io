@@ -1,0 +1,13 @@
+---
+title: "Partie du 20 mars 2024"
+date: 2024-03-21T23:04:30+01:00
+description: Double Drukhari Nécron
+tags:
+    - "w40k"
+    - "Nécrons"
+    - "Drukhari"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}

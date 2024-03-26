@@ -5,12 +5,12 @@ description: Partie du 4 janv. 2024
 tags:
     - "Aos"
     - "Maggotkin of Nurgle"
-	- "Maggotkin"
-	- "Nurgle"
+    - "Maggotkin"
+    - "Nurgle"
     - "Blades of Khorne"
-	- "BoK"
+    - "BoK"
     - "Soulblight Gravelords"
-	- "Soulblight"
+    - "Soulblight"
     - "Nighthaunt"
 ---
 

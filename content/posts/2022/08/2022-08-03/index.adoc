@@ -6,8 +6,8 @@ tags:
     - "w40k"
     - "SMC"
     - "Custo"
-	- "CK"
-	- "IF"
+    - "CK"
+    - "IF"
 ---
 
 Bonjour à tous,

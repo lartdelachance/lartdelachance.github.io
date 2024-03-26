@@ -11,8 +11,8 @@ tags:
     - "Beasts of chaos"
     - "BoC"
     - "Maggotkin of Nurgle"
-	- "Maggotkin"
-	- "Nurgle"
+    - "Maggotkin"
+    - "Nurgle"
 ---
 
 Bonjour à tous,

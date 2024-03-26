@@ -8,10 +8,10 @@ tags:
     - "DA"
     - "AoS"
     - "Maggotkin of Nurgle"
-	- "Maggotkin"
-	- "Nurgle"
+    - "Maggotkin"
+    - "Nurgle"
     - "Ogor Mawtribe"
-	- "Ogor"
+    - "Ogor"
 ---
 
 Bonjour à tous,

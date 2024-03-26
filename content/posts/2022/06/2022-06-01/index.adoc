@@ -7,7 +7,7 @@ tags:
     - "DG"
     - "DA"
     - "SMC"
-	- "CK"
+    - "CK"
 ---
 
 Des SMC ont repoussé des Chaos Knights.

@@ -5,7 +5,7 @@ description: l’empereur protège
 tags:
     - "w40k"
     - "SMC"
-	- "SdB"
+    - "SdB"
 ---
 
 Bonjour à tous,

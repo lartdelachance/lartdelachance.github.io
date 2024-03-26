@@ -5,7 +5,7 @@ description: Mort au faux empereur
 tags:
     - "w40k"
     - "SMC"
-	- "UM"
+    - "UM"
 ---
 
 Bonjour à tous,

@@ -1,0 +1,13 @@
+---
+title: "Des poils et de l'huile"
+date: 2024-03-14T09:58:52+01:00
+description: Partie du 6 mars 2024
+tags:
+    - "w40k"
+    - "Nécron"
+    - "Space Wolves"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}

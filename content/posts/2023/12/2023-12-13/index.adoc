@@ -8,8 +8,8 @@ tags:
     - "SMC"
     - "AoS"
     - "Maggotkin of Nurgle"
-	- "Maggotkin"
-	- "Nurgle"
+    - "Maggotkin"
+    - "Nurgle"
     - "Sylvaneth"
 ---
 
