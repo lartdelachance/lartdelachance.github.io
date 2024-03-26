@@ -24,14 +24,14 @@ Préparez-vous, généraux, car la guerre pour Thorishavn ne fait que commencer.
 Pendant ce second chapitre nous voyons arriver de nouveaux belligérants comme la Hordegivre de Fimbulvetr et la Clairière d'Héllébore menées par Azelgriff !
 Plusieurs batailles ont pu êtres disputés pendant cette seconde période : 
 
-* link:../posts/campagne/partie14[Skaven VS Kruleboyz VS Esclaves des ténèbres]
-* link:../posts/campagne/partie15[Lames de Khorne VS Kruleboyz]
-* link:../posts/campagne/partie16[Skaven VS Putrescent de Nurgle VS Hordegueules Ogors]
-* link:../posts/campagne/partie17[HordeGueule Ogor VS Vils de Fielsobscur]
-* link:../posts/campagne/partie18[Esclaves des Ténèbres VS Kruleboyz]
-* link:../posts/campagne/partie19[Sylvaneth VS Lames de Khorne]
-* link:../posts/campagne/partie20[Seigneur Ruinemânes & Hantenuit VS Putrescent de Nurgle & Lames de Khorne]
-* link:../posts/campagne/partie21[Hordegueules Ogor VS Putrescent de Nurgle]
+* link:/posts/campagne/partie14[Skaven VS Kruleboyz VS Esclaves des ténèbres]
+* link:/posts/campagne/partie15[Lames de Khorne VS Kruleboyz]
+* link:/posts/campagne/partie16[Skaven VS Putrescent de Nurgle VS Hordegueules Ogors]
+* link:/posts/campagne/partie17[HordeGueule Ogor VS Vils de Fielsobscur]
+* link:/posts/campagne/partie18[Esclaves des Ténèbres VS Kruleboyz]
+* link:/posts/campagne/partie19[Sylvaneth VS Lames de Khorne]
+* link:/posts/campagne/partie20[Seigneur Ruinemânes & Hantenuit VS Putrescent de Nurgle & Lames de Khorne]
+* link:/posts/campagne/partie21[Hordegueules Ogor VS Putrescent de Nurgle]
 
 Ajoutons quelques graphiques pour conclure ce premier chapitre : 
 image::img/chapitre2/Points_de_Gloires_gagnes_par_armee.png[]
