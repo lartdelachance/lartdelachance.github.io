@@ -26,7 +26,7 @@ Seul Azyr reste inébranlable et silencieux.
 
 Les seigneurs de guerre fourbissent leurs armes et préparent leurs osts à la bataille. Une nouvelle ère de conquête débute.
 --
-image::/aos/img/campagneIntro.webp[width="128", height="71", align="center"]
+image::/aos/img/campagneIntro.webp[align="center"]
 
 C'est ainsi que commence notre campagne AoS.
 
@@ -62,7 +62,8 @@ Les armées de la grande alliance de la Destruction :
 * link:/aos/armees/ruze[Lé Méga Ruzé] de Xeroxjager
 * link:/aos/armees/fimbulvetr[La Hordegivre Fimbulvetr] de AzelGriff
 
-Retrouvez les différents chapitre de notre campagne narrative :
+Retrouvez les différents chapitre de notre campagne narrative : 
+
 * link:/aos/campagne_chapitre1[La Tremblotte émerge]
 * link:/aos/campagne_chapitre2[L'arrivée des émissaires]
 

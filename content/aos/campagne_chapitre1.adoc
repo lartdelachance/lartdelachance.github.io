@@ -24,25 +24,22 @@ Ainsi, à travers le fer et le feu, les armées des joueurs se sont renforcées,
 
 De nombreuses batailles se sont déroulées pendant cette première période de campagne :
 
-* link:../posts/campagne/partie1[Seigneurs Ruinemânes VS Séraphon]
-* link:../posts/campagne/partie2[Bêtes du Chaos VS Putrescent de Nurgle]
-* link:../posts/campagne/partie3[Skaven VS Lames de Khorne VS Esclaves des Ténèbres]
-* link:../posts/campagne/partie4[Bête du Chaos VS Putrescent de Nurgle VS Skaven]
-* link:../posts/campagne/partie5[Putrescent de Nurgle VS Seigneurs Ruinemânes]
-* link:../posts/campagne/partie6[Demons de Khorne VS Seigneurs Ruinemânes]
-* link:../posts/campagne/partie7[Collecteurs Ossiarque VS Eternels de l'Orage]
-* link:../posts/campagne/partie8[Esclaves des ténèbres VS Hantenuit]
-* link:../posts/campagne/partie9[Disciples de Tzeentch VS Seigneur Ruinemânes VS Putrescent de Nurgle]
-* link:../posts/campagne/partie10[Skavens VS Vils de Fielsobscur]
-* link:../posts/campagne/partie11[Esclaves des Ténèbres VS Disciples de Tzeentch]
-* link:../posts/campagne/partie12[Putrescent de Nurgle VS Seigneurs Ruinemânes]
-* link:../posts/campagne/partie13[Putrescent de Nurgle & Kruleboyz VS Vils de Fielobscur & Seigneur Ruinemânes]
+* link:/posts/campagne/partie1[Seigneurs Ruinemânes VS Séraphon]
+* link:/posts/campagne/partie2[Bêtes du Chaos VS Putrescent de Nurgle]
+* link:/posts/campagne/partie3[Skaven VS Lames de Khorne VS Esclaves des Ténèbres]
+* link:/posts/campagne/partie4[Bête du Chaos VS Putrescent de Nurgle VS Skaven]
+* link:/posts/campagne/partie5[Putrescent de Nurgle VS Seigneurs Ruinemânes]
+* link:/posts/campagne/partie6[Demons de Khorne VS Seigneurs Ruinemânes]
+* link:/posts/campagne/partie7[Collecteurs Ossiarque VS Eternels de l'Orage]
+* link:/posts/campagne/partie8[Esclaves des ténèbres VS Hantenuit]
+* link:/posts/campagne/partie9[Disciples de Tzeentch VS Seigneur Ruinemânes VS Putrescent de Nurgle]
+* link:/posts/campagne/partie10[Skavens VS Vils de Fielsobscur]
+* link:/posts/campagne/partie11[Esclaves des Ténèbres VS Disciples de Tzeentch]
+* link:/posts/campagne/partie12[Putrescent de Nurgle VS Seigneurs Ruinemânes]
+* link:/posts/campagne/partie13[Putrescent de Nurgle & Kruleboyz VS Vils de Fielobscur & Seigneur Ruinemânes]
 
-Ajoutons quelques graphiques pour conclure ce premier chapitre :
-image::img/chapitre1/Points_de_Gloires_gagnes_par_armee.webp[]
-image::img/chapitre1/Repartition_des_joueurs_par_Grande_Alliance_1.webp[]
-
-
-
+Ajoutons quelques graphiques pour conclure ce premier chapitre : 
+image::/aos/img/chapitre1/Points_de_Gloires_gagnes_par_armee.webp[]
+image::/aos/img/chapitre1/Repartition_des_joueurs_par_Grande_Alliance_1.webp[]
 
 Vous retrouvez les parties link:/tags/campagne/[avec une recherche par tags]
