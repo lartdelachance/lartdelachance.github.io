@@ -39,10 +39,7 @@ De nombreuses batailles se sont déroulées pendant cette première période de 
 * link:/posts/campagne/partie13[Putrescent de Nurgle & Kruleboyz VS Vils de Fielobscur & Seigneur Ruinemânes]
 
 Ajoutons quelques graphiques pour conclure ce premier chapitre : 
-image::img/chapitre1/Points_de_Gloires_gagnes_par_armee.webp[]
-image::img/chapitre1/Repartition_des_joueurs_par_Grande_Alliance_1.webp[]
-
-
-
+image::/aos/img/chapitre1/Points_de_Gloires_gagnes_par_armee.webp[]
+image::/aos/img/chapitre1/Repartition_des_joueurs_par_Grande_Alliance_1.webp[]
 
 Vous retrouvez les parties link:/tags/campagne/[avec une recherche par tags]
