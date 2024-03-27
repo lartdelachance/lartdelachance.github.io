@@ -33,8 +33,10 @@ Plusieurs batailles ont pu êtres disputés pendant cette seconde période :
 * link:/posts/campagne/partie20[Seigneur Ruinemânes & Hantenuit VS Putrescent de Nurgle & Lames de Khorne]
 * link:/posts/campagne/partie21[Hordegueules Ogor VS Putrescent de Nurgle]
 
-Ajoutons quelques graphiques pour conclure ce premier chapitre : 
+Ajoutons quelques graphiques pour conclure ce premier chapitre :
+
 image::/aos/img/chapitre2/Points_de_Gloires_gagnes_par_armee.png[]
-image::/aos/img/chapitre2/Repartition_des_joueurs_par_Grande_Alliance_2.png[]
+
+image::/aos/img/chapitre2/Répartition_des_joueurs_par_Grande_Alliance_2.png[]
 
 Vous retrouvez les parties link:/tags/campagne/[avec une recherche par tags]
