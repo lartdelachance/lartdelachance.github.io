@@ -1,0 +1,14 @@
+---
+title: "Partie du 5 avr. 2024"
+date: 2024-04-10T18:57:09+02:00
+description: Partie du 5 avr. 2024
+tags:
+    - "w40k"
+    - "Warcry"
+---
+
+Bonjour à tous,
+
+Insert content ...
+
+{{< gallery >}}

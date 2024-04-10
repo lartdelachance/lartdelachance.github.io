@@ -1,0 +1,15 @@
+---
+title: "Partie du 3 avr. 2024"
+date: 2024-04-10T18:55:24+02:00
+description: Partie du 3 avr. 2024
+tags:
+    - "w40k"
+    - "AoS"
+    - "Initiation"
+---
+
+Bonjour à tous,
+
+Insert content ...
+
+{{< gallery >}}
