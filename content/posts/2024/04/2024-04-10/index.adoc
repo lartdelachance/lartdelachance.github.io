@@ -1,0 +1,15 @@
+---
+title: "Partie du 10 avr. 2024"
+date: 2024-04-11T08:25:30+02:00
+description: Partie du 10 avr. 2024
+tags:
+    - "w40k"
+    - "AoS"
+    - "KillTeam"
+---
+
+Bonjour à tous,
+
+Insert content ...
+
+{{< gallery >}}
