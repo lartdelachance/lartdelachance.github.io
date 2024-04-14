@@ -10,6 +10,4 @@ tags:
 
 Bonjour à tous,
 
-Insert content ...
-
 {{< gallery >}}
