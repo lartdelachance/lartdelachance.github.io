@@ -1,0 +1,14 @@
+---
+title: "Partie du 24 avr. 2024"
+date: 2024-04-25T08:59:24+02:00
+description: Partie du 24 avr. 2024
+tags:
+    - "w40k"
+    - "Killteam"
+    - "Aos"
+    - "SwL"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}

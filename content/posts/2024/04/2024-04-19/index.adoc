@@ -1,0 +1,13 @@
+---
+title: "Partie du 19 avr. 2024"
+date: 2024-04-25T08:59:16+02:00
+description: Partie du 19 avr. 2024
+tags:
+    - "w40k"
+    - "IF"
+    - "AdMech"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}

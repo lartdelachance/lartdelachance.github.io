@@ -1,0 +1,19 @@
+---
+title: "Partie du 17 avr. 2024"
+date: 2024-04-25T08:59:13+02:00
+description: Partie du 17 avr. 2024
+tags:
+    - "w40k"
+    - "Astra"
+    - "DG"
+    - "Tyranid"
+    - "Aeldari"
+    - "SMC"
+    - "Aos"
+    - "CoS"
+    - "Skaven"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}
