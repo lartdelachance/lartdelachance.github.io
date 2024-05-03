@@ -1,0 +1,13 @@
+---
+title: "Partie du 26 avr. 2024"
+date: 2024-05-03T18:23:58+02:00
+description: Partie du 26 avr. 2024
+tags:
+    - "w40k"
+    - "KillTeam"
+    - "ToW"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}

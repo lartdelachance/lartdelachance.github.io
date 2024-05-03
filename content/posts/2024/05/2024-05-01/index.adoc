@@ -1,0 +1,12 @@
+---
+title: "Partie du 1 mai 2024"
+date: 2024-05-03T18:25:03+02:00
+description: Partie du 1 mai 2024
+tags:
+    - "w40k"
+    - "Aos"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}
