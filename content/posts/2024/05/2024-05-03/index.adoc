@@ -1,0 +1,13 @@
+---
+title: "Partie du 3 mai 2024"
+date: 2024-05-05T14:15:50+02:00
+description: Partie du 3 mai 2024
+tags:
+    - "w40k"
+    - "Tow"
+    - "AoS"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}
