@@ -1,0 +1,15 @@
+---
+title: "Partie du 10 mai 2024"
+date: 2024-05-13T09:19:06+02:00
+description: Partie du 10 mai 2024
+tags:
+    - "w40k"
+    - "AdMech"
+    - "DA"
+    - "Tyranid"
+    - "Tau"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}
