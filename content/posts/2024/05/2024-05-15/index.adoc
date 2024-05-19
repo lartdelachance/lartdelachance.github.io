@@ -1,0 +1,12 @@
+---
+title: "Partie du 15 mai 2024"
+date: 2024-05-19T21:36:48+02:00
+description: Partie du 15 mai 2024
+tags:
+    - "w40k"
+    - "KT"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}

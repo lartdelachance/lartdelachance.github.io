@@ -1,0 +1,12 @@
+---
+title: "Partie du 17 mai 2024"
+date: 2024-05-19T21:45:46+02:00
+description: Partie du 17 mai 2024
+tags:
+    - "AoS"
+    - "Path to glory"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}
