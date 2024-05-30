@@ -1,0 +1,13 @@
+---
+title: "Partie du 24 mai 2024"
+date: 2024-05-30T08:19:40+02:00
+description: Partie du 24 mai 2024
+tags:
+    - "w40k"
+    - "Aos"
+    - "ToW"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}
