@@ -1,0 +1,12 @@
+---
+title: "Partie du 14 août 2024"
+date: 2024-08-14T00:09:40+02:00
+description: Partie du 14 août 2024
+tags:
+    - "AoS"
+    - "ToW"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}
