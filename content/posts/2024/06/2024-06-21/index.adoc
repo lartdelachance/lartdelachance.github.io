@@ -1,0 +1,12 @@
+---
+title: "Partie du 21 juin 2024"
+date: 2024-06-21T23:39:58+02:00
+description: Partie du 21 juin 2024
+tags:
+    - "w40k"
+    - "Aos"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}

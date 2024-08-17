@@ -1,0 +1,12 @@
+---
+title: "Partie du 7 juin 2024"
+date: 2024-06-07T00:56:08+02:00
+description: Partie du 7 juin 2024
+tags:
+    - "AoS"
+    - "KT"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}

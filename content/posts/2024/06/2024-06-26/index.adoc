@@ -1,0 +1,12 @@
+---
+title: "Partie du 26 juin 2024"
+date: 2024-06-26T00:52:24+02:00
+description: Partie du 26 juin 2024
+tags:
+    - "w40k"
+    - "w40k"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}

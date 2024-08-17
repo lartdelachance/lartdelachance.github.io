@@ -1,0 +1,12 @@
+---
+title: "Partie du 12 juin 2024"
+date: 2024-06-12T23:38:54+02:00
+description: Partie du 12 juin 2024
+tags:
+    - "w40k"
+    - "AoS"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}
