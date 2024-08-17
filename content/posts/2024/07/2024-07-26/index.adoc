@@ -1,0 +1,12 @@
+---
+title: "Partie du 26 juil. 2024"
+date: 2024-07-26T00:27:51+02:00
+description: Partie du 26 juil. 2024
+tags:
+    - "Spearhead"
+    - "Spearhead"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}

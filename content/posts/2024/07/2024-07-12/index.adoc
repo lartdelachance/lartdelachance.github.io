@@ -1,0 +1,12 @@
+---
+title: "Partie du 12 juil. 2024"
+date: 2024-07-12T00:32:37+02:00
+description: Partie du 12 juil. 2024
+tags:
+    - "w40k"
+    - "AoS"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}

@@ -1,0 +1,13 @@
+---
+title: "Partie du 31 juil. 2024"
+date: 2024-07-31T23:46:58+02:00
+description: Partie du 31 juil. 2024
+tags:
+    - "w40k"
+    - "SwL"
+    - "AoS"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}

@@ -1,0 +1,12 @@
+---
+title: "Partie du 17 juil. 2024"
+date: 2024-07-17T23:44:36+02:00
+description: Partie du 17 juil. 2024
+tags:
+    - "w40k"
+    - "Spearhead"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}

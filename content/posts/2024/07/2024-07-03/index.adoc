@@ -1,0 +1,12 @@
+---
+title: "Partie du 3 juil. 2024"
+date: 2024-07-03T23:41:31+02:00
+description: Partie du 3 juil. 2024
+tags:
+    - "w40k"
+    - "KT"
+---
+
+Bonjour à tous,
+
+{{< gallery >}}
