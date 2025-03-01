@@ -27,7 +27,7 @@ jobs:
     # runs-on: self-hosted
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
       with:
         submodules: true  # Fetch Hugo themes (true OR recursive)
         fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
@@ -35,7 +35,7 @@ jobs:
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
       with:
-        hugo-version: 'latest'
+        hugo-version: '0.145.0'
         extended: true
 
     - name: Setup Ruby
@@ -53,7 +53,7 @@ jobs:
         hugo --minify
 
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v1
+      uses: actions/upload-pages-artifact@v3
       with:
         path: ./public
 
@@ -71,7 +71,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
 
       - uses: sarisia/actions-status-discord@v1
         if: steps.deployment.outcome == 'success'

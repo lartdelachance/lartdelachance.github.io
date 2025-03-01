@@ -2,7 +2,7 @@ baseURL = "https://lartdelachance.github.io/"
 title = "L'art de la chance"
 languageCode = "fr"
 theme = "hello-friend"
-paginate = 5
+pagination.pagerSize = 5
 defaultContentLanguage = 'fr'
 timeout='10m'
 

@@ -1,0 +1,22 @@
+---
+title: "Nuit du Jeu 2025"
+date: 2025-02-28T18:30:00+01:00
+description: 3ème participation à la Nuit du Jeu de Thorigné-Fouillard
+tags:
+    - "Asso"
+    - "Nuit du jeux"
+---
+
+Bonjour à tous,
+
+Comme les années précédente, nous avons proposé 2 activités :
+
+* Découverte du jeu de figurine : The Old Word, Age of Sigmar, Fer de Lance (Spearhead) et Warhammer 40.000
+* Atelier peinture
+
+Cette année encore beaucoup de mains ont pu peindre.
+
+Et quelques autres ont découvert le jeux
+
+
+{{< gallery >}}
