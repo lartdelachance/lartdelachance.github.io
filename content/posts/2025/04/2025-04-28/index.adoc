@@ -1,0 +1,15 @@
+---
+title: "Mars/Avril 2025"
+date: 2025-04-28T10:31:33+02:00
+description: Mars/Avril 2025
+tags:
+    - "w40k"
+    - "Aos"
+    - "Tow"
+---
+
+Bonjour à tous,
+
+Quelques photos de nos dernières parties.
+
+{{< gallery >}}
