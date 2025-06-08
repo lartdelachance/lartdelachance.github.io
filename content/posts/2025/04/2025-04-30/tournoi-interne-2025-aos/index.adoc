@@ -1,0 +1,82 @@
+---
+title: "Tournoi interne 2025 Age of Sigmar"
+summary: "Tournoi interne 2025 Age of Sigmar"
+date: 2022-07-09T00:00:01
+tags:
+    - "AoS"
+---
+
+== Réglement général:
+
+Respect, cordialité et bienveillance sont de mises.
+
+Les organisateurs se réservent le droit de sanctionner de manière adéquat tout contrevenant.
+
+La coordination du tournoi se déroulera sur le serveur discord dans des canaux dédié.
+
+== Déroulement du tournoi:
+
+=== Inscription
+
+Tout membre de l'association peut rejoindre ce tournois
+
+=== Calendrier
+
+* Le tournoi se déroulera sur 5 rondes, une par mois.
+* Le début sera en Mai
+* Remise des listes, le premier lundi du mois *avant* 23h59
+* Pairing envoyé le premier mardi du mois avec le scénario tiré au sort
+* Vous avez jusqu'au dimanche avant la remise des liste pour faire votre partie.
+
+[%header,cols="1,2,2,2,6"]
+|====
+| Rounde | Remise des listes | Pairing   | Date limite de partie | Scenario
+| T1
+| 18/05/2025
+| 19/05/2025
+| 14/06/2025
+| Point Focal
+| T2
+| 15/06/2025
+| 16/06/2025
+| 19/07/2025
+| non connu
+| T3
+| 20/07/2025
+| 21/07/2025
+| 16/08/2025
+| non connu
+| T4
+| 17/08/2025
+| 18/08/2025
+| 20/09/2025
+| non connu
+| T5
+| 21/09/2025
+| 22/09/2025
+| 18/10/2025
+| non connu
+|====
+
+Ce sont des dates indicatives, elles pourraient changer si tout le monde a le temps de jouer ou de ne pas jouer sa partie.
+
+=== Organisation des parties
+
+Communication des rondes et appariement: Les rondes seront communiquées via discord et les joueurs seront en charge de s'organiser avec leur adversaire pour effectuer leur partie dans le délai de la ronde en cours.
+
+Pénalité en cas de partie non jouée: Si les joueurs ne peuvent pas faire leur partie, une défaite sera attribuée au joueur ne pouvant pas effectuer sa partie. Si les deux joueurs sont dans l'incapacité de trouver une date, une défaite sera attribuée aux deux joueurs.
+
+=== Règlement du tournoi:
+
+Les parties se joueront sur les scénarios du manuel du générale.
+
+*Scoring*: AOSFF (0-20)
+
+*Publication des listes*: Les listes devront être faite avec l'outil https://www.listbot.co.uk/listbot/[Listbot 4.0], sauf dérogation, afin de permettre une correction rapide par les organisateurs.
+
+*Limite de prise en compte*: Toutes sorties officielles connues au moment de la publication des listes seront acceptées.
+De la même manière, les changements de liste entre les rondes pourront utiliser les dernières mises à jour de codex, dataslate, coût en point, etc ...
+
+L'organisation se réserve le droit d'autoriser des publications récentes afin de permettre à tout le monde d'être au plus près de la méta.
+
+Si https://www.listbot.co.uk/listbot/[Listbot 4.0] n'est pas encore à jour pour le détachement joué, une édition de liste puis correction du texte manuelle au moment de la soumission est possible.

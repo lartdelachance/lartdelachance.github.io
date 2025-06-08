@@ -3,7 +3,10 @@ title: "Nouvelle année"
 date: 2025-01-01T00:00:01+01:00
 description: Nouvelle année
 tags:
-    - "Asso"
+    - "asso"
+    - "w40k"
+    - "aos"
+    - "tournois"
 ---
 Bonjour à tous,
 

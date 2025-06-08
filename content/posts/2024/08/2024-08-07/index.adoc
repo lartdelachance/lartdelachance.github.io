@@ -4,6 +4,8 @@ date: 2024-08-07T00:26:00+02:00
 description: Partie du 7 août 2024
 tags:
     - "AoS"
+    - "nighthaunt"
+    - "kruleboyz"
 ---
 
 Bonjour à tous,

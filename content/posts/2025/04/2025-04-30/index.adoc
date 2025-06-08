@@ -1,0 +1,22 @@
+---
+title: "2 tournois interne"
+date: 2025-04-28T11:12:18+02:00
+description: 2 tournois interne, un Aos et un 40k
+tags:
+    - "tournois"
+    - "w40k"
+    - "aos"
+---
+
+Bonjour à tous,
+
+Nous organisons 2 tournois interne, un pour Age-Of-Sigmar, et un pour Warhammer 40 000.
+
+Les règles sont disponible ici :
+
+* règle link:./tournoi-interne-2025-w40k[Tournoi interne 2025 Warhammer 40 000]
+* règle link:./tournoi-interne-2025-aos[Tournoi interne 2025 Age of Sigmar]
+
+A la fin de chaque ronde, les résultats seront publié ici.
+
+Bonne chance à tous !
