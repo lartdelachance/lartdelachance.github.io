@@ -1,0 +1,19 @@
+---
+title: "Résultat des 2 tournois interne"
+date: 2026-01-26T18:35:03+01:00
+description: Résultat des 2 tournois interne
+tags:
+    - "tournois"
+    - "w40k"
+    - "aos"
+---
+
+Bonjour à tous,
+
+Notre tournois Interne est terminé et nous avons nos 2 vainqueurs :
+* Xerosjager pour Aos
+* DoubleRation pour W40k
+
+Bravo à eux et merci à tous pour leur participation.
+
+{{< gallery >}}
